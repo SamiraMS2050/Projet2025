@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 #%%
 df=pd.read_csv("Apprentissage.csv")
-dp=pd.read_csv("apprentissage.csv")
+#dp=pd.read_csv("apprentissage.csv")
 # %%
 df = df.drop(df.columns[[0,7,15,18,20,21,25,28,29,30]], axis=1)
 # %%
@@ -83,37 +83,7 @@ def rename_columns(df: pd.DataFrame, rename_dict: dict) -> pd.DataFrame:
     :return: DataFrame avec les colonnes renommées
     """
     return df.rename(columns=rename_dict)
-#%%
-dp=pd.read_csv("apprentissage.csv")
-print("Avant renommage:\n", dp)
-# Dictionnaire de renommage
-rename_dict = {
-    "Age": "Age",
-    "Etablissement": "Etablissement",
-    "Classe": "Classe",
-    "Commune de domicile": "Commune",
-    "Combien d'heures consacrez-vous par semaine à la révision, apprentissage des mathématiques?": "Heures_Maths",
-    "Quel est votre rapport aux mathématiques ? Sur une échelle de 1 à 10 (du très mauvais à un excellent rapport), à combien auto-évaluez-vous ?": "Auto_eval_Maths",
-    "Combien d'heures consacrez-vous par semaine à la révision, apprentissage des autres sciences?": "Heures_Sciences",
-    "Combien d'heures consacrez-vous par semaine à la révision, apprentissage de la langue française?": "Heures_Francais",
-    "Sur une échelle de 1 à 10, donnez votre dernière moyenne de trimestre (note sur 10) en mathématiques?": "Moyenne_Maths",
-    "Vos parents ou tuteurs travaillent-ils? Que font-ils comme travail?": "Travail_Parents",
-    "Recevez-vous des cours particuliers à domicile?": "Cours_Particuliers",
-    "Avez-vous éprouvé des difficultés d'apprentissage à l’entrée en classe de 6ème (en seconde), maintenant ? Si oui, dans quelles matières et notions ?": "Difficultes_6e",
-    "Où avez-vous obtenu (allez-vous obtenir) votre Brevet ?": "Lieu_Brevet",
-    "Y a-t-il eu des changements dans votre parcours depuis la 6è du collège ? lesquels ?": "Changements_Parcours",
-    "Quels sont vos projets actuels une fois le BAC obtenu ? Quelle spécialité/option du BAC ?": "Projets_BAC",
-    "Selon vous, vos difficultés en sciences, en maths sont-elles liées à l’utilisation de la langue ?": "Difficultes_Langue",
-    "Quelle est votre langue maternelle ?": "Langue_Maternelle",
-    "Etes-vous né sur le territoire de Mayotte ?": "Ne_Mayotte",
-    "Avez-vous un accès internet chez vous à la maison ? Combien de devoirs faits nécessitaient une connexion ?": "Acces_Internet",
-    "Quelle notion de mathématiques retenez-vous aujourd’hui ? Qu’est ce qui fait que vous l’aimiez ou pas ?": "Notion_Maths",
-    "Expression libre sur l'apprentissage/enseignement de mathématiques, d'informatique, de sciences.": "Expression_Libre"
-}
 
-dh = rename_columns(dp, rename_dict)
-print("Après renommage:\n", dh)
-dh.to_csv("apprentissage.csv", index=False, encoding='utf-8')
 # %%
 df=pd.read_csv("apprentissage.csv")
 # Vérification des noms de colonnes avant renommage
@@ -159,4 +129,37 @@ print("Colonnes après renommage :", df.columns.tolist())
 
 # Sauvegarde du fichier
 df.to_csv("apprentissage.csv", index=False, encoding='utf-8')
+
 # %%
+import pandas as pd
+import re
+
+def clean_and_extract_time(df, column_name):
+    """
+    Nettoie une colonne en supprimant les valeurs ne contenant pas de chiffres
+    et en extrayant uniquement les expressions contenant 'h', 'H', 'min' ou des nombres seuls.
+
+    Args:
+        df (pd.DataFrame): Le DataFrame contenant la colonne à traiter.
+        column_name (str): Le nom de la colonne à nettoyer.
+
+    Returns:
+        pd.DataFrame: Le DataFrame avec la colonne nettoyée.
+    """
+    def extraire_temps(val):
+        val = str(val)  # Convertir en chaîne pour éviter les erreurs
+        if re.fullmatch(r'\d+', val):  # Vérifie si c'est un nombre pur (ex: "45", "120")
+            return val  
+        correspondance = re.findall(r'\d+\s*[hH]|\d+\s*min|\d+', val)  # Capture heures, minutes et nombres seuls
+        return ' '.join(correspondance) if correspondance else ''
+    
+    df[column_name] = df[column_name].apply(extraire_temps)
+    return df
+print(dp)
+
+dp = clean_and_extract_time(dp, 'Heures_Maths')
+
+print("\nAprès nettoyage:")
+print(dp)
+
+dp.to_csv("apprentissage.csv", index=False, encoding='utf-8')
