@@ -3,7 +3,9 @@ import numpy as np
 import pandas as pd
 #%%
 df=pd.read_csv("Apprentissage.csv")
-#dp=pd.read_csv("apprentissage.csv")
+dp=pd.read_csv("apprentissage.csv")
+#dp=dp.drop(116)
+#dp.to_csv("apprentissage1.csv", index=False, encoding='utf-8')
 # %%
 df = df.drop(df.columns[[0,7,15,18,20,21,25,28,29,30]], axis=1)
 # %%
@@ -12,11 +14,11 @@ print(df)
 #%%
 
 # Suppression de "ans" ou "Ans" dans la première colonne
-df.iloc[:, 1] = df.iloc[:, 1].str.replace(r'\s*[aA]ns', '', regex=True)
+dp.iloc[:, 0] = dp.iloc[:, 0].str.replace(r'\s*[aA]ns', '', regex=True)
 
 # Affichage du DataFrame mis à jour
-print(df)
-df.to_csv("apprentissage.csv", index=False, encoding='utf-8')
+print(dp)
+dp.to_csv("apprentissage.csv", index=False, encoding='utf-8')
 # %%
 #print(df.iloc[:, 1])
 print(df[["Age"]])
@@ -155,6 +157,7 @@ def clean_and_extract_time(df, column_name):
     
     df[column_name] = df[column_name].apply(extraire_temps)
     return df
+#%%
 print(dp)
 
 dp = clean_and_extract_time(dp, 'Heures_Maths')
@@ -163,3 +166,25 @@ print("\nAprès nettoyage:")
 print(dp)
 
 dp.to_csv("apprentissage.csv", index=False, encoding='utf-8')
+#%%
+
+dp = clean_and_extract_time(dp, 'Heures_Sciences')
+
+print("\nAprès nettoyage:")
+print(dp)
+
+dp.to_csv("apprentissage.csv", index=False, encoding='utf-8')
+# %%
+
+dp = clean_and_extract_time(dp, 'Heures_Francais')
+
+print("\nAprès nettoyage:")
+print(dp)
+
+dp.to_csv("apprentissage.csv", index=False, encoding='utf-8')
+#%%
+dp=pd.read_csv("apprentissage.csv")
+def nettoyer_colonne(df, colonne):
+    df[colonne] = df[colonne].apply(lambda x: x if isinstance(x, (int, float)) and 0 <= x <= 10 else np.nan) 
+nettoyer_colonne(df, '')    
+# %%
