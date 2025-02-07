@@ -30,7 +30,7 @@ df.to_csv("nettoye.csv", index=False)
 d = df['Acces_Internet'].unique()
 print(d)
 # %%
-####par contre pour que les tests marcheent faudra avoir une copie de nettoye.csv avant de lui appliqueer les conversion 
+####par contre pour que les tests marchent faudra avoir une copie de nettoye.csv avant de lui appliqueer les conversion 
 #et de ce fait la premiere fonction test prendra la copie 
 #et la deuxieme fonction test prendra le fichier nettoye.csv apres conversion 
 ###Apres l execution des 2 codes on doit avoir les 2 valeurs de i et j egaux ce qui justifiera que le code fait bien ce qu on lui demande
