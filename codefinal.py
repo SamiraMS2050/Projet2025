@@ -38,7 +38,7 @@ def mapper_classe(classe):
 
 # Retourne la valeur originale si aucun chiffre n'est trouvé
 #application de la correction à apprentissage 
-df['       Classe '] = df['       Classe '].apply(mapper_classe)
+df['Classe'] = df['Classe'].apply(mapper_classe)
 #%%
 ################Nettoyage de la colonne Etablissement##########
 #standarisation  de la colonne 
