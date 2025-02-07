@@ -1,9 +1,9 @@
 #%%
 import pandas as pd
 def conversion(nom):
-    if nom=='non':
+    if nom=='non' or nom=="nn" or nom=="non.":
         return 0
-    elif nom=='oui':
+    elif nom=='oui' or nom=="oui u" or nom=="oui.":
         return 1
     else:
         return nom
@@ -26,11 +26,20 @@ df['Ne_Mayotte'] = df['Ne_Mayotte'].apply(conversion)
 df['Acces_Internet'] = df['Acces_Internet'].str.lower().str.strip()
 df['Acces_Internet'] = df['Acces_Internet'].apply(conversion)
 df.to_csv("nettoye.csv", index=False)  
+#%%
+d = df['Acces_Internet'].unique()
+print(d)
 # %%
-########fonction test 
+####par contre pour que les tests marcheent faudra avoir une copie de nettoye.csv avant de lui appliqueer les conversion 
+#et de ce fait la premiere fonction test prendra la copie 
+#et la deuxieme fonction test prendra le fichier nettoye.csv apres conversion 
+###Apres l execution des 2 codes on doit avoir les 2 valeurs de i et j egaux ce qui justifiera que le code fait bien ce qu on lui demande
+
+
+######## Première fonction test 
 i=0
 j=0
-df = pd.read_csv('nettoye.csv')
+df = pd.read_csv('nettoye_copie.csv')
 df['Acces_Internet'] = df['Acces_Internet'].str.lower().str.strip()
 for n in df['Acces_Internet']:
     if n=='oui':
@@ -41,11 +50,10 @@ print(i)
 print(j)
 
 # %%
-#test 
+# Deuxième fonction test 
 i=0
 j=0
 df = pd.read_csv('nettoye.csv')
-#df['Travail_Paresnts'] = df['Travail_Parents'].str.lower()
 for n in df['Acces_Internet']:
     if n=='1':
         i=i+1
