@@ -22,7 +22,7 @@ Age,Etablissement,Classe,Commune de  domicile,Heures_Maths,Auto_eval_Maths,Heure
 17.0,Lycée de Dembéni,Première,Commune de Mamoudzou,20,,20,60.0,4.0,0.0,0,0,collège de Kwale ,0,Une fois obtenu mon BAC j'aimerais faire des formations a fini de travailler,0,Shimaoré,0,1,Je ne sais pas exactement,
 17.0,Lycée des Lumières,Terminale,Commune de Koungou,180,,360,60.0,8.5,1.0,0,1,Koungou Mayotte ,1,"Intégré l'université de biologie , Svt et physique chimie ",1,Shimaoré,1,1,J'aime les mathématiques grâce à l'argent j'aime beaucoup compté etc ,
 17.0,Lycée de Dembéni,Première,Commune de M'Tsangamouji,240,,180,120.0,8.0,1.0,0,0,College de mtsangamouji ,0,Étude de médecine.  Physique math svt actuellement et Physique svt plus math complémentaire en terminale ,0,kibushi,1,1,"Statistiques, dérivé, identité remarquable, la langues mathématiques, suites, fonction polynôme, etc. J'aime parce que je comprend avant tout et parce que j'aime les maths. Je suis moins emballé par la géométrie , ni trigonométrie etc..",
-19.0,Lycée des Lumières,BTS,Commune de Mamoudzou,0,,60,30.0,7.0,1.0,0,1,Collège de Chiconi,,Je fais déjà un BTS,je sais pas,Shimaoré,1,1,Le BFR et le FR,
+19.0,Lycée des Lumières,BTS,Commune de Mamoudzou,0,,60,30.0,7.0,1.0,0,1,Collège de Chiconi,,Je fais déjà un BTS,,Shimaoré,1,1,Le BFR et le FR,
 18.0,Lycée des Lumières,Terminale,Commune de Mamoudzou,0,,240,60.0,5.0,1.0,0,0,Collège K2,0,Faire une Licence de géographie. J'ai comme spécialité sciences numérique informatiques et histoire géographie géopolitique et sciences politiques ,0,Shimaoré,1,1,Les théorèmes car j'aime la géométrie ,
 15.0,Lycée de Mamoudzou Nord,Seconde,Commune de Dembeni,60,,60,60.0,5.0,0.0,0,0, ,0,Allez dans une école de commerce puis ouvrir mon entreprise. ,0,Shimaoré,1,1,Autre ,
 16.0,Lycée de Mamoudzou Nord,Seconde,Commune de Koungou,240,,60,240.0,4.0,0.0,0,0,collège majicavo,1,De continuer à l'université. Science économique et sociale ,1,Shimaoré,1,0,Nombre rationnels ,
@@ -93,7 +93,7 @@ Mes spécialité sont : Maths et SVT.",0,Shimaoré,1,1,"Résoudre une équation.
 18.0,Lycée des Lumières,BTS,Commune de Mamoudzou,120,4,240,180.0,5.0,0.0,0,0,Collège Kaweni ,1,Université de commerce,1,Shimaoré,1,1,Les formulaires,
 17.0,Lycée de Dembéni,Première,Commune de Pamandzi,60,7,60,240.0,7.0,0.0,0,0,,1,"Apres le bac, suivre des études de droits/hggsp,s'est maths pour les spé ",0,Shimaoré,0,1,Les maths je peux les oublier très vite comme je peux men rappelé très vite aussi avec un peu de pratique  voilà pourquoi je les aimes ,
 13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,1,600,0.0,7.0,1.0,0,0,,1,DIRECTEMENT CHERCHEZ DU TRAVAIL,0,Shimaoré,1,0,LES CALCULES MENTALE,
-11.0,Collège de Ouangani,Sixième,Commune de Ouangani,60,10;9;8,60,120.0,9.0,1.0,1,1,,1,euh... on va voir sa avec mes parents,n oui,Français,1,1,des pèrimetre,
+11.0,Collège de Ouangani,Sixième,Commune de Ouangani,60,10;9;8,60,120.0,9.0,1.0,1,1,,1,euh... on va voir sa avec mes parents,1,Français,1,1,des pèrimetre,
 13.0,Collège de Ouangani,Cinquième,Commune de Ouangani,60,10,60,120.0,10.0,0.0,0,0,,1,je sais pas encore,0,kibushi,1,1,les nombres relatifs,
 14.0,Collège de Ouangani,Cinquième,Commune de Ouangani,0,5,120,60.0,8.0,1.0,1,0,,0,non,0,Français,1,0,addition,
 13.0,Collège de Ouangani,Cinquième,Commune de Ouangani,240,8,60,180.0,9.0,1.0,0,0,,0,je ne sais pas,0,Shimaoré,1,0,se mettre en colère,
@@ -160,7 +160,7 @@ Mes spécialité sont : Maths et SVT.",0,Shimaoré,1,1,"Résoudre une équation.
 14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,10,60,120.0,10.0,1.0,1,1,,1,etre sécurite ,1,Français,1,0,les fraction,oui
 13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,4,120,120.0,5.0,0.0,0,1,college de ouangani,0,pompier,0,Shimaoré,1,0,oui je l'aime,.
 14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,7,60,60.0,7.0,0.0,0,1,college de ouangani,0,je ne c' est pas,0,Shimaoré,0,0,théorème de phytagore,difficile
-13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,10,420,300.0,10.0,0.0,0,1,NON,,NON,mayot,,0,1,OUI,NON
+13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,10,420,300.0,10.0,0.0,0,1,NON,,NON,,,0,1,OUI,NON
 14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,5,3,25,60.0,5.0,1.0,0,0,Collège de ouangani,0,Je vais continuer mais étude ,0,malgache francais mahoraise,1,1,Un peux beaucoup.,C'est trop dure pour expliquer maintenant.
 14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,10,5,40,50.0,4.0,1.0,0,0,collégede ouangani,0,je sais pas,0,Shimaoré,0,0,rien,mathématique je aime bien
 14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,1,60,60.0,1.0,1.0,0,1,collège de Ouangani,1,maitre chien,0,malgache et shimaore,1,1,j'aime pas car je comprend rien,"j'aime pas les maths , le physique chimie car je comprend rien et les autres j'aime bien"
