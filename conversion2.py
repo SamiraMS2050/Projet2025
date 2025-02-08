@@ -1,10 +1,10 @@
-#%%
+# %%
 import pandas as pd
 import re
 
 # Charger le fichier CSV
-file_path = 'C:/Users/abkat/OneDrive/Documents/master ssd/projet/nettoye.csv'  # Remplace avec le bon chemin
-output_file_path = 'C:/Users/abkat/OneDrive/Documents/master ssd/projet/nettoye_minutes.csv'
+file_path = 'nettoye.csv'  # Remplace avec le bon chemin
+output_file_path = 'nettoye.csv'
 df = pd.read_csv(file_path)
 
 def convert_to_minutes(time_str):
@@ -43,15 +43,14 @@ def convert_to_minutes(time_str):
 # Colonnes contenant les heures
 hour_columns = ["Heures_Maths", "Heures_Sciences", "Heures_Francais"]
 
-# Appliquer la conversion
+# Appliquer la conversion sans ajouter de nouvelles colonnes
 for col in hour_columns:
     if col in df.columns:
-        df[col + "_Minutes"] = df[col].apply(convert_to_minutes)
+        df[col] = df[col].apply(convert_to_minutes)
 
 # Sauvegarder le fichier modifié
 df.to_csv(output_file_path, index=False)
 
 print(f"Fichier mis à jour enregistré sous : {output_file_path}")
-
 
 # %%
