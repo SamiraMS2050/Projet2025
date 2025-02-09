@@ -92,14 +92,14 @@ Age,Etablissement,Classe,Commune de  domicile,Heures_Maths,Auto_eval_Maths,Heure
 18.0,Lycée des Lumières,BTS,Commune de Mamoudzou,120,4,240,180.0,5.0,0.0,0,0,Collège Kaweni ,1,Ecole de Commerce,1,Shimaoré,1,1,Les formulaires,
 17.0,Lycée de Dembéni,Première,Commune de Pamandzi,60,7,60,240.0,7.0,0.0,0,0,,1,Université,0,Shimaoré,0,1,Les maths je peux les oublier très vite comme je peux men rappelé très vite aussi avec un peu de pratique  voilà pourquoi je les aimes ,
 13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,1,600,0.0,7.0,1.0,0,0,,1,Travailler,0,Shimaoré,1,0,LES CALCULES MENTALE,
-11.0,Collège de Ouangani,Sixième,Commune de Ouangani,60,10;9;8,60,120.0,9.0,1.0,1,1,,1,Réflexion,1,Français,1,1,des pèrimetre,
+11.0,Collège de Ouangani,Sixième,Commune de Ouangani,60,,60,120.0,9.0,1.0,1,1,,1,Réflexion,1,Français,1,1,des pèrimetre,
 13.0,Collège de Ouangani,Cinquième,Commune de Ouangani,60,10,60,120.0,10.0,0.0,0,0,,1,Réflexion,0,kibushi,1,1,les nombres relatifs,
 14.0,Collège de Ouangani,Cinquième,Commune de Ouangani,0,5,120,60.0,8.0,1.0,1,0,,0,,0,Français,1,0,addition,
 13.0,Collège de Ouangani,Cinquième,Commune de Ouangani,240,8,60,180.0,9.0,1.0,0,0,,0,,0,Shimaoré,1,0,se mettre en colère,
-12.0,Collège de Ouangani,Cinquième,Commune de Ouangani,120,10;9,60,120.0,10.0,1.0,0,0,,0,Ecole spécialisée,0,Français,0,1,je ne sais pas,
+12.0,Collège de Ouangani,Cinquième,Commune de Ouangani,120,,60,120.0,10.0,1.0,0,0,,0,Ecole spécialisée,0,Français,0,1,je ne sais pas,
 13.0,Collège de Ouangani,Cinquième,Commune de Ouangani,0,8,120,0.0,8.0,1.0,0,0,,0,,0,Shimaoré,0,0,multiplier,
 12.0,Collège de Ouangani,Cinquième,Commune de Ouangani,120,7,120,60.0,6.0,0.0,0,1,,0,,0,Shimaoré,1,1,les fraction ,
-12.0,Collège de Ouangani,Cinquième,Commune de Ouangani,60,10;6;5,240,600.0,1.0,1.0,0,1,,0,Université,1,Shimaoré,0,1,fractions,
+12.0,Collège de Ouangani,Cinquième,Commune de Ouangani,60,,240,600.0,1.0,1.0,0,1,,0,Université,1,Shimaoré,0,1,fractions,
 12.0,Collège de Ouangani,Cinquième,Commune de Ouangani,60,9,60,60.0,,,0,1,,0,,1,kibushi,1,1,les fraction,
 15.0,Collège de Ouangani,Cinquième,Commune de Ouangani,0,7,60,600.0,8.0,1.0,1,0,,0,Ecole spécialisée,0,Shimaoré,1,1,franctions,
 12.0,Collège de Ouangani,Cinquième,Commune de Ouangani,0,4,240,120.0,4.0,1.0,1,0,,0,,0,Shimaoré,1,0,je sais pas,
@@ -118,18 +118,18 @@ Age,Etablissement,Classe,Commune de  domicile,Heures_Maths,Auto_eval_Maths,Heure
 14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,300,9,120,360.0,9.0,0.0,1,0,,0,Université,1,Shimaoré,0,0,le théorème de phytaguore,
 14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,15,9,120,15.0,9.0,1.0,0,0, ,0,Université,0,kibushi,1,1,théorème ,
 13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,180,5,60,240.0,5.0,0.0,0,1,,0, BTS,0,Shimaoré,1,1,les calculs,
-14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,8;19,240,120.0,8.0,1.0,0,0,,0,Ecole spécialisée,0,Shimaoré,1,1,j comprent rien en math,
-13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,10;15,300,,,0.0,0,1,,1,Ecole spécialisée,0,Shimaoré,1,0,ont na pas encor de maths,
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,,240,120.0,8.0,1.0,0,0,,0,Ecole spécialisée,0,Shimaoré,1,1,j comprent rien en math,
+13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,,300,,,0.0,0,1,,1,Ecole spécialisée,0,Shimaoré,1,0,ont na pas encor de maths,
 14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,15,9,15,15.0,9.0,1.0,0,0,,0,Université,0,kibushi,1,1,les théorèmes ,
 13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,5,60,60.0,5.0,0.0,1,1,,0,Ecole spécialisée,0,Shimaoré,1,0,il nous explique tout,
 14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,300,8,120,360.0,8.0,1.0,0,0,,1,Ecole spécialisée,0,Malgache,0,0,les triangles semblables,
-13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,6;4;2,180,60.0,6.0,1.0,0,0,,0,Université,0,Shimaoré,1,1,les pitagore,
+13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,,180,60.0,6.0,1.0,0,0,,0,Université,0,Shimaoré,1,1,les pitagore,
 14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,60,5,60,30.0,5.0,1.0,0,0,,0,,0,Shimaoré,1,1,theoreme de pytagore il y a beaucoup d'etape,
 13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,3,180,120.0,5.0,1.0,0,0,,1,Ecole spécialisée,0,Shimaoré,1,1,J'en ai retenue aucun.,
-14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,180,8;12,360,300.0,9.0,0.0,0,0,,0,Université,0,Shimaoré,1,0,des fraction,
-15.0,Collège de Ouangani,Quatrième,Commune de Ouangani,960,7;5,960,15.0,7.0,0.0,0,0,,0,Université,0,Shimaoré,,0,j aime pas parceque c est conpliqué,
-14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,60,10;20,60,60.0,6.0,0.0,1,1,,1,Ecole spécialisée,0,Shimaoré,1,0,les fraction,
-14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,30,9;8,30,30.0,9.0,1.0,0,0,,0,,0,Shimaoré,1, 1,jais rien retennu,
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,180,,360,300.0,9.0,0.0,0,0,,0,Université,0,Shimaoré,1,0,des fraction,
+15.0,Collège de Ouangani,Quatrième,Commune de Ouangani,960,,960,15.0,7.0,0.0,0,0,,0,Université,0,Shimaoré,,0,j aime pas parceque c est conpliqué,
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,60,,60,60.0,6.0,0.0,1,1,,1,Ecole spécialisée,0,Shimaoré,1,0,les fraction,
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,30,,30,30.0,9.0,1.0,0,0,,0,,0,Shimaoré,1, 1,jais rien retennu,
 12.0,Collège de Ouangani,Quatrième,Commune de Ouangani,60,2,240,180.0,2.0,1.0,0,1,,1,Université ,0,Shimaoré,1,0,Les calculs ,
 22.0,Lycée des Lumières,1mcvAPP,Commune de Koungou,120,6,120,120.0,8.0,0.0,0,1,collèges k2,,Université,1,Shimaoré,1,1,Je ne se pas encore,Pas bien compris
 16.0,Lycée de Dembéni,Terminale,Commune de Mamoudzou,0,5,0,0.0,5.0,1.0,0,0,,1, ,0,Français,1,1,Une flemmardise ,Plus d’enseignement sur l’informatique serait nécessaire 
@@ -162,6 +162,6 @@ Age,Etablissement,Classe,Commune de  domicile,Heures_Maths,Auto_eval_Maths,Heure
 14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,1,60,60.0,1.0,1.0,0,1,collège de Ouangani,1,Ecole spécialisée,0,malgache et shimaore,1,1,j'aime pas car je comprend rien,"j'aime pas les maths , le physique chimie car je comprend rien et les autres j'aime bien"
 13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,5,60,240.0,5.0,1.0,0,1,,0,,1,Shimaoré,1,1,c'est difficile mais je ne comprend pas ,oui
 15.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,5,60,120.0,4.0,0.0,0,1,,1,Ecole spécialisée,1,Shimaoré,0,0,les clcul,l'histoire
-17.0,Lycée de Dembéni,Première,Commune de Mamoudzou,120,7;5,120,120.0,7.0,0.0,0,0,Collège de passamainty ,1,Université ,1,Shimaoré,1,0,La réciproque du théorème de Pythagore car il ya des choses qui doivent être réciproque afin que sa marche. ,Le monde a besoin des maths car partout il y les maths  .
+17.0,Lycée de Dembéni,Première,Commune de Mamoudzou,120,,120,120.0,7.0,0.0,0,0,Collège de passamainty ,1,Université ,1,Shimaoré,1,0,La réciproque du théorème de Pythagore car il ya des choses qui doivent être réciproque afin que sa marche. ,Le monde a besoin des maths car partout il y les maths  .
 17.0,Lycée Younoussa Bamana,P18STI2D,Commune de Mamoudzou,300,6,300,180.0,6.0,0.0,0,1,Collège koungou,1,Université,0,Shimaoré,1,,il mait permet de faire des truc que j'aime, je pas compries
 17.0,Lycée des Lumières,Terminale STMG,Commune de Mamoudzou,0,9,120,240.0,8.0,0.0,0,0,Collège kawéni 2,1,BTS,0,Français,1,1,Les suites je l'aime ,expression
