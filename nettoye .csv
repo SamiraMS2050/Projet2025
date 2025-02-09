@@ -1,0 +1,167 @@
+Age,Etablissement,Classe,Commune de  domicile,Heures_Maths,Auto_eval_Maths,Heures_Sciences,Heures_Francais,Moyenne_Maths,Travail_Parents,Cours_Particuliers,Difficultes_6e,Lieu_Brevet,Changements_Parcours,Projets_BAC,Difficultes_Langue,Langue_Maternelle,Ne_Mayotte,Acces_Internet,Notion_Maths,Expression_Libre
+16.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,300,,1680,420.0,7.0,0.0,0,0,College kaweni 1,0,Université,1,Shimaoré,1,0,,
+16.0,Lycée des Lumières,Seconde,Commune de Koungou,120,,240,120.0,5.0,0.0,0,0,,1,BTS,0,Shimaoré,1,,Fonctions,
+15.0,Lycée des Lumières,Seconde,Commune de Koungou,120,,180,240.0,7.0,1.0,0,0,college majicavo,0,Université ,0,Shimaoré,1,1,Fonctions,
+15.0,Lycée des Lumières,Seconde,Commune de Koungou,120,,60,120.0,8.0,0.0,0,1,,1,Université,0,Shimaoré,0,0, Toute,
+15.0,Lycée des Lumières,Seconde,Commune de Koungou,1,,120,60.0,1.0,0.0,0,0,majicavo lamir,1,Université,0,Shimaoré,1,1,Aucune,
+16.0,Lycée des Lumières,Seconde,Commune de Koungou,10,,60,240.0,4.0,1.0,0,1,collège majicavo,1,Université ,0,Shimaoré,1,1,Aucune,
+17.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,180,,180,300.0,3.0,0.0,0,1,AU COLLEGE DE MAJICAVO 77,1,Université,0,Shimaoré,1,0,,
+16.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,540,,1200,240.0,9.0,1.0,0,0,Au Collège de Kaweni 1,1,,0,Shimaoré,0,1,Toute,
+16.0,Lycée des Lumières,Seconde,Commune de Koungou,300,,1680,420.0,5.0,0.0,0,1,college kaweni 2,0,Université,0,Shimaoré,1,0,Aucune,
+16.0,Lycée de Dembéni,Première,Commune de Mamoudzou,0,,0,0.0,6.0,1.0,0,0,,0,,1,Shimaoré,1,1,Chiffres,
+17.0,Lycée de Dembéni,Première,Commune de Mamoudzou,420,,180,840.0,9.0,1.0,1,0,,1,Réflexion,1,Shimaoré,1,1,Calculs,
+17.0,Lycée de Dembéni,1STI2D,Commune de Mamoudzou,30,,30,30.0,5.0,0.0,0,0,Collège de passamainty,1,BUT,0,Shimaoré,1,1,Aucune,
+16.0,Lycée des Lumières,Seconde,Commune de Koungou,420,,480,120.0,9.0,0.0,0,1,collège de koungou,0,Université,0,Shimaoré,0,0,Théorème de Pythagore,
+16.0,Lycée de Dembéni,Première,Commune de Chiconi,180,,240,180.0,5.0,1.0,0,0,collège de chiconi,0,BTS,0,kibushi,1,1,Suites arithmétiques,
+16.0,Lycée des Lumières,Seconde,Commune de Koungou,420,,480,360.0,9.0,0.0,0,1,,1,Université,0,Shimaoré,0,0,Théorème de Pythagore,
+16.0,Lycée de Dembéni,Première,Commune de M'Tsangamouji,30,,30,30.0,5.0,1.0,0,0, ,0,BTS,0,kibushi,1,1,Fonctions,
+17.0,Lycée de Dembéni,Première,Commune de Dembeni,240,,240,180.0,6.0,0.0,0,0, ,0,Université,0,Shimaoré,1,1,formule du discriminant,
+16.0,Lycée de Dembéni,Première,Commune de Mamoudzou,480,,360,240.0,7.0,1.0,0,1,Collège De Kwalé,0,Université,0,Shimaoré,0,0,Toute,
+16.0,Lycée de Dembéni,Première,Commune de Ouangani,360,,300,240.0,6.0,1.0,0,0,,1,Université,0,Shimaoré,1,0,Equations-trigonométrie,
+17.0,Lycée des Lumières,Terminale,Commune de Koungou,180,,600,,5.0,1.0,0,0, ,0,Université,1,Shimaoré,1,1,Fonctions,
+17.0,Lycée de Dembéni,Première,Commune de Mamoudzou,20,,20,60.0,4.0,0.0,0,0,collège de Kwale ,0,Université,0,Shimaoré,0,1,,
+17.0,Lycée des Lumières,Terminale,Commune de Koungou,180,,360,60.0,8.5,1.0,0,1,Koungou Mayotte ,1,Université,1,Shimaoré,1,1,Toute ,
+17.0,Lycée de Dembéni,Première,Commune de M'Tsangamouji,240,,180,120.0,8.0,1.0,0,0,College de mtsangamouji ,0,Université,0,kibushi,1,1, Statistiques-Suites-Fonctions,
+19.0,Lycée des Lumières,BTS,Commune de Mamoudzou,0,,60,30.0,7.0,1.0,0,1,Collège de Chiconi,,BTS,,Shimaoré,1,1, BFR et FR,
+18.0,Lycée des Lumières,Terminale,Commune de Mamoudzou,0,,240,60.0,5.0,1.0,0,0,Collège K2,0,Université,0,Shimaoré,1,1,Géométrie ,
+15.0,Lycée de Mamoudzou Nord,Seconde,Commune de Dembeni,60,,60,60.0,5.0,0.0,0,0, ,0,Ecole de Commerce,0,Shimaoré,1,1,,
+16.0,Lycée de Mamoudzou Nord,Seconde,Commune de Koungou,240,,60,240.0,4.0,0.0,0,0,collège majicavo,1,Université,1,Shimaoré,1,0,Nombres rationnels ,
+16.0,Lycée des Lumières,Première,Commune de Mamoudzou,0,,300,300.0,2.0,1.0,0,0,,0,Université,0,Shimaoré,1,1,Aucune ,
+17.0,Lycée des Lumières,Terminale,Commune de Koungou,0,,30,120.0,2.0,1.0,0,0,Collègue majicavo ,0,Université,0,Shimaoré,1,1,Géométrie ,
+20.0,Lycée des Lumières,BTS,Commune de Mamoudzou,120,,180,60.0,4.0,0.0,0,1,collège de passamainty,1,Université,0,Shimaoré,1,0,Fonctions-Marge brute-Calcul,
+16.0,Lycée des Lumières,Première,Commune de Koungou,0,,180,120.0,4.0,1.0,0,1,Collège de koungou ,1,Ecole spécialisée,0,Shindzouani,0,1,Aucune,
+17.0,Lycée des Lumières,Terminale,Commune de Koungou,120,,360,120.0,8.5,1.0,0,0,Koungou  ,1,Université,1,Shimaoré,1,1,Algorithmes,
+16.0,Lycée des Lumières,Seconde,Commune de Koungou,300,,120,60.0,8.0,0.0,0,0,,0,Université,1,Shimaoré,1,1,Statistiques,
+18.0,Lycée des Lumières,Terminale,Commune de Mamoudzou,300,,420,720.0,6.0,1.0,0,0,Collège Kaweni 2,0,Université,0,Français,1,1,Logarithme népérien,
+16.0,Lycée des Lumières,Première,Commune de Koungou,720,,480,480.0,8.0,1.0,0,0,collège majicavo lamir ,1,Université ,0,Shimaoré,1,1,Toute ,
+18.0,Lycée des Lumières,STMG,Commune de Koungou,60,,600,,2.0,0.0,0,0,Collège k2,1,Université,0,Shimaoré,1,0,Equations,
+16.0,Lycée des Lumières,Seconde,Commune de Koungou,60,,60,0.0,5.0,0.0,0,0,collège kaweni 1,0,BTS ,0,Shimaoré,1,0,Aucune ,
+15.0,Lycée des Lumières,1st2s,Commune de Koungou,0,,180,300.0,7.0,1.0,0,0,Collègue Frédéric D'achery,0,,,Shimaoré,0,1,Calculs,
+19.0,Lycée des Lumières,Terminale,Commune de Mamoudzou,0,,120,120.0,1.0,1.0,0,0,,1,Travailler,0,Français,0,1,Aucune ,
+17.0,Lycée des Lumières,Terminale,Commune de Mamoudzou,0,,0,120.0,1.58,0.0,0,0,Collège de kaweni 1,0,Université,1,Shimaoré,1,1,,
+17.0,Lycée des Lumières,Terminale STMG,Commune de Bandraboua,360,,420,120.0,5.0,0.0,0,0,Au collège K2,0,BTS,0,Shimaoré,1,, ,
+18.0,Lycée des Lumières,Terminale,Commune de Mamoudzou,0,,120,600.0,2.0,0.0,0,1,Au collège de K1,0,BTS,0,Shimaoré,1,0,Aucune,
+17.0,Lycée des Lumières,Seconde,Commune de Koungou,60,,60,60.0,5.0,1.0,0,0,Au collège de Koungou ,1,,0,Shimaoré,0,,Aucune ,
+17.0,Lycée des Lumières,1 std2a,Commune de Koungou,60,,0,0.0,3.0,1.0,0,1,Oui  ,1,Ecole spécialisée,1,Creole,1,1,Aucune ,
+15.0,Lycée des Lumières,Seconde,Commune de Koungou,60,,60,120.0,4.0,1.0,0,0,Au collège de Koungou,0,,1,Shimaoré,1,1,Aucune,
+16.0,Lycée des Lumières,Première STMG,Commune de Mamoudzou,300,,0,120.0,9.0,0.0,0,0,Collège kaweni 2,0,Université,0,Shimaoré,1,1,Chiffres ,
+16.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,300,,60,240.0,2.0,1.0,0,0,Collège kaweni 2,0,,0,Malgache,0,1,Aucune ,
+18.0,Lycée des Lumières,Terminale,Commune de Koungou,3,,0,120.0,3.0,1.0,0,0, ,1,BTS,0,Shimaoré,1,1,Aucune ,
+19.0,Lycée de Mamoudzou Nord,T OTM,Commune de Koungou,60,,0,30.0,7.0,0.0,0,1,,1,Université ,1,Shimaoré,1,1,Suites numériques ,
+15.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,0,,180,360.0,6.0,0.0,0,0,Collège kaweni 1,0,Université,0,Swahili,0,0,Equations,
+20.0,Lycée des Lumières,Terminale,Commune de Koungou,60,,60,120.0,2.0,1.0,0,0,collèges Frédéric d'achery koungou ,1,Université,0,Shimaoré,0,1,Aucune ,
+17.0,Lycée des Lumières,Première,Commune de Koungou,120,,30,240.0,3.0,0.0,0,1,,1,Ecole spécialisée,0,Shimaoré,0,1,Formules,
+17.0,Lycée des Lumières,Terminale,Commune de Koungou,120,,240,480.0,4.0,1.0,0,0,Collège Koungou,1,Ecole spécialisée,,Shindzouani,0,1,Démonstrations,
+15.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,60,,120,60.0,5.0,1.0,0,1,,1,,0,Shimaoré,1,1,Multiplications,
+18.0,Lycée des Lumières,Terminale,Commune de Tsingoni,0,,0,0.0,4.0,0.0,0,1,Collège de Koungou,0,Université ,1,Shindzouani,0,0,Aucune ,
+15.0,Lycée des Lumières,Seconde,Commune de Koungou,180,,300,60.0,9.5,1.0,0,1,Collège de majicavo ( mayotte ) ,1, ,0,Malgache,1,1,Méthode,
+17.0,Lycée des Lumières,1 agora,Commune de Mamoudzou,120,,0,0.0,5.0,0.0,0,0,,1,BTS,1,Shimaoré,1,0,Suites numériques ,
+18.0,Lycée des Lumières,Terminale,Commune de Koungou,0,,120,,5.0,0.0,0,0,collège de koungou ,0,Université,0,Shimaoré,1,1,,
+15.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,5,,5,0.0,6.0,0.0,0,0,,1,,0,Shimaoré,0,0,Equations,
+16.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,60,,30,120.0,6.0,0.0,0,0,collège Kaweni 1,0,,0,malgache et comorien,0,,Probabilités ,
+17.0,Lycée des Lumières,Première STMG,Commune de Koungou,120,,180,120.0,10.0,0.0,1,1,,1,Université ,0,Shimaoré,1,0,Arithmétiques ,
+16.0,Lycée des Lumières,Seconde,Commune de Koungou,180,,240,60.0,8.0,1.0,0,0,collège de Majicavo Lamir,1,Réflexion,0,Français,0,1,Equations,
+16.0,Lycée des Lumières,Première,Commune de Koungou,60,,120,60.0,,1.0,0,1, collège de Majicavo,0,Ecole spécialisée ,0,Français,1,1,Trigonométrie,
+16.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,360,,120,240.0,7.0,1.0,1,1,au collège kaweni 2,1,Université ,0,"malgache , l'anjouanais, maore et  creo",1,1,Arithmétique-Algèbre,
+15.0,Lycée des Lumières,Seconde,Commune de Koungou,60,,60,0.0,5.0,0.0,0,0,college majicavo lamir,0,Université,0,Shimaoré,1,0,,
+15.0,Lycée des Lumières,Seconde,Commune de Koungou,0,,30,0.0,6.0,1.0,0,1,Collège majicavo,0,Ecole spécialisée,1,russe,0,1,Aucune,
+17.0,Lycée des Lumières,Terminale,Commune de Mamoudzou,180,,120,60.0,5.0,1.0,0,1,au collège kawéni 2,0,Université,0,Shimaoré,1,1,Chiffres,
+16.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,120,,300,180.0,5.0,0.0,0,1,Collège k1,0,,0,Shimaoré,1,1,Statistiques-Développement,
+16.0,Lycée de Mamoudzou Nord,Terminale,Commune de Mamoudzou,0,,180,180.0,5.0,0.0,0,0,collège de kwalé,0,BTS,0,Shimaoré,0,0,Théorème de pythagore,
+18.0,Lycée des Lumières,Terminale,Commune de Mamoudzou,60,,180,120.0,5.0,0.0,0,0, ,1,,0,Shimaoré,0,0,Probabilités,
+17.0,Lycée des Lumières,Terminale,Commune de Mamoudzou,120,,720,360.0,8.0,0.0,0,1,Au collège Kaweni1,1,Université,0,Shindzouani,0,1,Exponentielle,
+16.0,Lycée des Lumières,Seconde,Commune de Koungou,120,,120,180.0,9.0,1.0,0,1, ,,Ecole spécialisée ,0,Shimaoré,0,,Aucune,
+17.0,Lycée des Lumières,Terminale,Commune de Mamoudzou,120,,240,60.0,5.0,1.0,0,1,Collège K2,,Université,0,Shimaoré,1,1,Equations,
+18.0,Lycée des Lumières,Terminale STMG,Commune de Koungou,180,,540,240.0,6.0,1.0,0,0,,0,BTS,0,Shimaoré,1,0,Probabilités,
+17.0,Lycée des Lumières,1mcv1,Commune de Pamandzi,240,,120,60.0,8.0,,0,0,collège de pamandzi,1,BTS,0,Shimaoré,0,0,,
+17.0,Lycée des Lumières,Première STMG,Commune de Koungou,20,,60,,6.0,1.0,0,0, ,0,Université,0,Shimaoré,1,1,Suites ,
+16.0,Lycée des Lumières,Seconde,Commune de Koungou,0,,120,0.0,4.0,1.0,0,0,,0,Université ,0,Shimaoré,1,1,,
+16.0,Lycée de Mamoudzou Nord,Première,Commune de Mamoudzou,60,,35,60.0,4.0,0.0,0,1,,0,Université,0,Shimaoré,1,0,Fonctions,
+19.0,Lycée des Lumières,BTS,Commune de Dembeni,240,,120,180.0,4.0,0.0,0,1,,0,,1,Shimaoré,1,0,Calcul mental ,
+16.0,Lycée de Mamoudzou Nord,Seconde,Commune de Koungou,300,,300,300.0,5.0,1.0,0,1, ,1,Université,0,Shimaoré,0,1,,
+14.0,Lycée des Lumières,Seconde,Commune de Koungou,0,,0,0.0,4.0,1.0,0,0,,,Université,0,Shimaoré,1,0,Aucune,
+17.0,Lycée des Lumières,Terminale STMG,Commune de Mamoudzou,60,,180,120.0,5.0,,0,0,Collège kaweni 1,1,Université,0,Shimaoré,1,1,Probabilités,
+16.0,Lycée de Mamoudzou Nord,Seconde,Commune de Koungou,420,,0,0.0,5.0,1.0,0,0, ,0,Ecole spécialisée ,1,francais/ maore,1,1,Vecteurs,
+14.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,60,,120,120.0,5.0,1.0,1,0,Collège kaweni 2,1,Université  ,0,malgache et  shimaore,1,1,Statistiques,
+15.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,240,,120,240.0,5.0,1.0,1,0,Collège kaweni 1,0,Réflexion,0,Shimaoré,1,1,,
+17.0,Lycée des Lumières,Première,Commune de Mamoudzou,60,,30,180.0,5.5,1.0,0,0,Collège Kawéni 1,1,Université,0,shimaorais et kibushi,1,1,Multiples,
+15.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,120,,120,180.0,1.0,1.0,0,0,Collège kaweni 2,0,Réflexion,0,Shimaoré,0,0,Deux,
+15.0,Lycée des Lumières,Seconde,majicavo / tsingoni,120,,180,120.0,10.0,1.0,0,1,Collège de majicavo ,0,,0,kibushi,1,0,Equations-Ensembles,
+15.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,30,,180,60.0,4.5,1.0,0,1,Collège K2 ( kawéni 2),1,Université,1,Shimaoré,1,1,Aucune ,
+18.0,Lycée des Lumières,Terminale,Commune de Koungou,420,,1260,300.0,3.0,0.0,0,0,Collége majicavo lamir,0,Université,1,Shimaoré,1,0,Trigonométrie,
+18.0,Lycée des Lumières,BTS,Commune de Mamoudzou,120,4,240,180.0,5.0,0.0,0,0,Collège Kaweni ,1,Ecole de Commerce,1,Shimaoré,1,1,Formules,
+17.0,Lycée de Dembéni,Première,Commune de Pamandzi,60,7,60,240.0,7.0,0.0,0,0,,1,Université,0,Shimaoré,0,1,Toute,
+13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,1,600,0.0,7.0,1.0,0,0,,1,Travailler,0,Shimaoré,1,0,calcul mental,
+11.0,Collège de Ouangani,Sixième,Commune de Ouangani,60,,60,120.0,9.0,1.0,1,1,,1,Réflexion,1,Français,1,1,  Géométrie,
+13.0,Collège de Ouangani,Cinquième,Commune de Ouangani,60,10,60,120.0,10.0,0.0,0,0,,1,Réflexion,0,kibushi,1,1,Nombres relatifs,
+14.0,Collège de Ouangani,Cinquième,Commune de Ouangani,0,5,120,60.0,8.0,1.0,1,0,,0,,0,Français,1,0,Additions,
+13.0,Collège de Ouangani,Cinquième,Commune de Ouangani,240,8,60,180.0,9.0,1.0,0,0,,0,,0,Shimaoré,1,0,,
+12.0,Collège de Ouangani,Cinquième,Commune de Ouangani,120,,60,120.0,10.0,1.0,0,0,,0,Ecole spécialisée,0,Français,0,1,,
+13.0,Collège de Ouangani,Cinquième,Commune de Ouangani,0,8,120,0.0,8.0,1.0,0,0,,0,,0,Shimaoré,0,0,Multiplications,
+12.0,Collège de Ouangani,Cinquième,Commune de Ouangani,120,7,120,60.0,6.0,0.0,0,1,,0,,0,Shimaoré,1,1,Fractions ,
+12.0,Collège de Ouangani,Cinquième,Commune de Ouangani,60,,240,600.0,1.0,1.0,0,1,,0,Université,1,Shimaoré,0,1,Fractions,
+12.0,Collège de Ouangani,Cinquième,Commune de Ouangani,60,9,60,60.0,,,0,1,,0,,1,kibushi,1,1,Fractions,
+15.0,Collège de Ouangani,Cinquième,Commune de Ouangani,0,7,60,600.0,8.0,1.0,1,0,,0,Ecole spécialisée,0,Shimaoré,1,1,Fractions,
+12.0,Collège de Ouangani,Cinquième,Commune de Ouangani,0,4,240,120.0,4.0,1.0,1,0,,0,,0,Shimaoré,1,0,,
+12.0,Collège de Ouangani,Cinquième,Commune de Ouangani,60,7,60,60.0,4.0,1.0,0,0,,0,,1,Shimaoré,1,1,Multiplications,
+13.0,Collège de Ouangani,Cinquième,Commune de Ouangani,0,8,180,120.0,7.0,1.0,1,1, ,0,Ecole spécialisée,0,Shimaoré,1,1,Multiplications-Additions ,
+12.0,Collège de Ouangani,Cinquième,Commune de Ouangani,60,10,120,60.0,5.0,1.0,0,0,,0,,0,francais  et mayotte,0,1,Calcul littéral,
+12.0,Collège de Ouangani,Cinquième,Commune de Ouangani,240,9,60,120.0,9.0,1.0,1,0,,0,,1,Shimaoré,1,0,Additions,
+13.0,Collège de Ouangani,Cinquième,Commune de Ouangani,0,2,0,0.0,1.0,1.0,0,1, ,1,Ecole spécialisée,1,Shimaoré,1,0,Fractions,
+13.0,Collège de Ouangani,Cinquième,Commune de Ouangani,900,9,180,0.0,5.0,0.0,0,0,,0,,0,Shimaoré,1,1,Additions,
+13.0,Collège de Ouangani,Cinquième,Commune de Ouangani,180,8,180,240.0,8.0,0.0,0,1,,1,,0,Français,1,1,Additions,
+11.0,Collège de Ouangani,Cinquième,Commune de Ouangani,60,10,20,50.0,10.0,1.0,0,1,,1,,0,Shimaoré,1,1,Additions,
+13.0,Collège de Ouangani,Cinquième,Commune de Ouangani,120,8,180,60.0,8.0,1.0,0,0,,0,,0,Français,0,1,Scratch-Additions-Multiplications,
+13.0,Collège de Ouangani,Cinquième,Commune de Ouangani,0,8,60,60.0,2.0,1.0,0,1,,0,,1,Shimaoré,0,0,Scratch,
+13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,60,7,180,60.0,5.0,0.0,0,0,college de ouangani,1,Réflexion,0,Shimaoré,1,1,Aucune ,
+13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,60,1,0,0.0,,1.0,0,1,,0,,0,kibushi,1,1, Théorème de pythagore ,
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,300,9,120,360.0,9.0,0.0,1,0,,0,Université,1,Shimaoré,0,0,Théorème de pythagore,
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,15,9,120,15.0,9.0,1.0,0,0, ,0,Université,0,kibushi,1,1,Théorèmes ,
+13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,180,5,60,240.0,5.0,0.0,0,1,,0, BTS,0,Shimaoré,1,1,Calculs,
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,,240,120.0,8.0,1.0,0,0,,0,Ecole spécialisée,0,Shimaoré,1,1,Aucune,
+13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,,300,,,0.0,0,1,,1,Ecole spécialisée,0,Shimaoré,1,0,,
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,15,9,15,15.0,9.0,1.0,0,0,,0,Université,0,kibushi,1,1,Théorèmes,
+13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,5,60,60.0,5.0,0.0,1,1,,0,Ecole spécialisée,0,Shimaoré,1,0,,
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,300,8,120,360.0,8.0,1.0,0,0,,1,Ecole spécialisée,0,Malgache,0,0,Triangles semblables,
+13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,,180,60.0,6.0,1.0,0,0,,0,Université,0,Shimaoré,1,1,Théorème de pythagore,
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,60,5,60,30.0,5.0,1.0,0,0,,0,,0,Shimaoré,1,1,Théorème de pythagore,
+13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,3,180,120.0,5.0,1.0,0,0,,1,Ecole spécialisée,0,Shimaoré,1,1,Aucune,
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,180,,360,300.0,9.0,0.0,0,0,,0,Université,0,Shimaoré,1,0,Fractions,
+15.0,Collège de Ouangani,Quatrième,Commune de Ouangani,960,,960,15.0,7.0,0.0,0,0,,0,Université,0,Shimaoré,,0,Aucune,
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,60,,60,60.0,6.0,0.0,1,1,,1,Ecole spécialisée,0,Shimaoré,1,0,Fractions,
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,30,,30,30.0,9.0,1.0,0,0,,0,,0,Shimaoré,1, 1,Aucune,
+12.0,Collège de Ouangani,Quatrième,Commune de Ouangani,60,2,240,180.0,2.0,1.0,0,1,,1,Université ,0,Shimaoré,1,0,Calculs,
+22.0,Lycée des Lumières,1mcvAPP,Commune de Koungou,120,6,120,120.0,8.0,0.0,0,1,collèges k2,,Université,1,Shimaoré,1,1,,Pas bien compris
+16.0,Lycée de Dembéni,Terminale,Commune de Mamoudzou,0,5,0,0.0,5.0,1.0,0,0,,1, ,0,Français,1,1, Aucune ,Plus d’enseignement sur l’informatique serait nécessaire 
+17.0,Lycée de Dembéni,Terminale,Commune de M'Tsangamouji,0,5,60,0.0,4.0,1.0,0,0,collège de M’Tsangamouji ,1,Ecole spécialisée,0,kibushi,1,1,Théorème de thalès,Il suffit d’avoir un bon prof pour un élève qui veut apprendre pour bien comprendre. Mais après l’investissement de l’élève peut en effet changer la donne 
+17.0,Lycée Younoussa Bamana,Terminale,Commune de Mamoudzou,0,5,60,120.0,5.0,1.0,0,1,Collège M'Gombani ,1,BTS,0,Shimaoré,1,1,Théorème de pythagore,Neutre difficile 
+17.0,Lycée de Dembéni,Première,Commune de Mamoudzou,60,7,0,480.0,7.0,1.0,0,1,,1,Université,0,Shimaoré,0,1,Trigonométrie,Hyper passionnant mais trop stressant 
+18.0,Lycée de Dembéni,Terminale,Commune de Dembeni,0,6,0,60.0,6.0,1.0,0,1,Collège Dembeni,1,Université ,0,Français,1,1,Fractions,J'ai perdu mon esprit mathématique par manque de confiance en moi 
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,7,0,0.0,7.0,1.0,0,0,,0,Réflexion,0,Shimaoré,1,0,Calculs,depuis la sixième les profs de math que J'ai eu mon bien enseigner les cours et je crois de demain j'aurai une belle vie grâce au mathématique je remercie tout mes profs de maths merci a vous !
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,9,0,0.0,9.0,1.0,0,0, ,0,Université,,Shimaoré,1,1,Multiplications ,"Ils faut adapter ou aider les personne en difficulté selon leurs class qu'importe l'age ( cours particulier , cours de soutiens etc... )"
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,4,0,0.0,4.0,1.0,0,1,,0,Université,0,kiboushi et  kimaore,1,1,Aucune,pas compris
+13.0,e15,Quatrième,Commune de Ouangani,60,8,120,60.0,5.0,1.0,0,1,,0,Université,,Shimaoré,1,0,le geographi**,je c'est pas
+13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,60,5,120,0.0,5.0,1.0,0,1,,1,,0,Shimaoré,1,1,Toute,j aime etudier les math est apprendre beaucoup de choses
+13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,240,9,120,60.0,9.0,1.0,0,0,,0,Université,0,Shimaoré,1,1,Aucune,J'ai pas compris vous pouvez reformulez la phrase s'il vous plait.
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,1,0,60.0,,1.0,0,1,,1,Ecole spécialisée,0,Shimaoré,1,1,Additions,c'est difficile WESH
+16.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,3,180,240.0,3.0,0.0,0,1,,0,Réflexion,0,Shimaoré,1,0,Calcul mental,"je sais pas"
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,3,0,0.0,3.0,0.0,0,0,,0,Ecole spécialisée,0,Shimaoré,1,0,Additions,NON
+14.0,e15,Quatrième,Commune de Ouangani,180,10,180,60.0,,0.0,0,1,,0,,,,0,0,Divisions,non
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,60,5,60,120.0,3.0,0.0,0,1,college de ouangani,1,Ecole spécialisée,,kibushi,1,1,Calculs,","
+13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,180,5,60,240.0,4.0,0.0,1,1,college de Ouagani,1,,0,Shimaoré,1,0,,.
+13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,5,600,300.0,8.0,1.0,0,0,college de ouangani,0,,0,Shimaoré,1,1,Puissances,j'ai rien à redire sur le système
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,4,240,420.0,5.0,0.0,0,0,college de ouangani,1,Ecole spécialisée,0,Shimaoré,1,1,Aucune,0
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,5,60,120.0,5.0,0.0,0,1,,1,Université,1,Shimaoré,0,0,Fractions,c'est bien mais parfois difficile 
+15.0,Collège de Ouangani,Quatrième,Commune de Ouangani,60,7,60,45.0,7.0,0.0,0,1,college de ouangani,1,Ecole spécialisée,1,Shimaoré,0,1,calcul litteral,c'est tres difficile
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,10,60,120.0,10.0,1.0,1,1,,1,Ecole spécialisée ,1,Français,1,0,Fractions,oui
+13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,4,120,120.0,5.0,0.0,0,1,college de ouangani,0,Ecole spécialisée,0,Shimaoré,1,0,Toute,.
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,7,60,60.0,7.0,0.0,0,1,college de ouangani,0,,0,Shimaoré,0,0,Théorème de pythagore,difficile
+13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,10,420,300.0,10.0,0.0,0,1,,,,,,0,1,,NON
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,5,3,25,60.0,5.0,1.0,0,0,Collège de ouangani,0,Université ,0,malgache francais mahoraise,1,1,,C'est trop dure pour expliquer maintenant.
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,10,5,40,50.0,4.0,1.0,0,0,collégede ouangani,0,,0,Shimaoré,0,0,Aucune,mathématique je aime bien
+14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,1,60,60.0,1.0,1.0,0,1,collège de Ouangani,1,Ecole spécialisée,0,malgache et shimaore,1,1,Aucune,"j'aime pas les maths , le physique chimie car je comprend rien et les autres j'aime bien"
+13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,120,5,60,240.0,5.0,1.0,0,1,,0,,1,Shimaoré,1,1,Aucune ,oui
+15.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,5,60,120.0,4.0,0.0,0,1,,1,Ecole spécialisée,1,Shimaoré,0,0,Calculs,l'histoire
+17.0,Lycée de Dembéni,Première,Commune de Mamoudzou,120,,120,120.0,7.0,0.0,0,0,Collège de passamainty ,1,Université ,1,Shimaoré,1,0,Théorème de Pythagore,Le monde a besoin des maths car partout il y les maths  .
+17.0,Lycée Younoussa Bamana,P18STI2D,Commune de Mamoudzou,300,6,300,180.0,6.0,0.0,0,1,Collège koungou,1,Université,0,Shimaoré,1,,, je pas compries
+17.0,Lycée des Lumières,Terminale STMG,Commune de Mamoudzou,0,9,120,240.0,8.0,0.0,0,0,Collège kawéni 2,1,BTS,0,Français,1,1,Suites ,expression
