@@ -85,7 +85,7 @@ Age,Etablissement,Classe,Commune de  domicile,Heures_Maths,Auto_eval_Maths,Heure
 14.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,60,,120,120.0,5.0,1.0,1,0,Collège kaweni 2,1,Université  ,0,malgache et  shimaore,1,1,Statistiques,
 15.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,240,,120,240.0,5.0,1.0,1,0,Collège kaweni 1,0,Réflexion,0,Shimaoré,1,1,,
 17.0,Lycée des Lumières,Première,Commune de Mamoudzou,60,,30,180.0,5.5,1.0,0,0,Collège Kawéni 1,1,Université,0,shimaorais et kibushi,1,1,Multiples,
-15.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,120,,120,180.0,1.0,1.0,0,0,Collège kaweni 2,0,Réflexion,0,Shimaoré,0,0,Deux,
+15.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,120,,120,180.0,1.0,1.0,0,0,Collège kaweni 2,0,Réflexion,0,Shimaoré,0,0,,
 15.0,Lycée des Lumières,Seconde,majicavo / tsingoni,120,,180,120.0,10.0,1.0,0,1,Collège de majicavo ,0,,0,kibushi,1,0,Equations-Ensembles,
 15.0,Lycée des Lumières,Seconde,Commune de Mamoudzou,30,,180,60.0,4.5,1.0,0,1,Collège K2 ( kawéni 2),1,Université,1,Shimaoré,1,1,Aucune ,
 18.0,Lycée des Lumières,Terminale,Commune de Koungou,420,,1260,300.0,3.0,0.0,0,0,Collége majicavo lamir,0,Université,1,Shimaoré,1,0,Trigonométrie,
@@ -140,7 +140,7 @@ Age,Etablissement,Classe,Commune de  domicile,Heures_Maths,Auto_eval_Maths,Heure
 14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,7,0,0.0,7.0,1.0,0,0,,0,Réflexion,0,Shimaoré,1,0,Calculs,depuis la sixième les profs de math que J'ai eu mon bien enseigner les cours et je crois de demain j'aurai une belle vie grâce au mathématique je remercie tout mes profs de maths merci a vous !
 14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,9,0,0.0,9.0,1.0,0,0, ,0,Université,,Shimaoré,1,1,Multiplications ,"Ils faut adapter ou aider les personne en difficulté selon leurs class qu'importe l'age ( cours particulier , cours de soutiens etc... )"
 14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,4,0,0.0,4.0,1.0,0,1,,0,Université,0,kiboushi et  kimaore,1,1,Aucune,pas compris
-13.0,e15,Quatrième,Commune de Ouangani,60,8,120,60.0,5.0,1.0,0,1,,0,Université,,Shimaoré,1,0,le geographi**,je c'est pas
+13.0,e15,Quatrième,Commune de Ouangani,60,8,120,60.0,5.0,1.0,0,1,,0,Université,,Shimaoré,1,0,,je c'est pas
 13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,60,5,120,0.0,5.0,1.0,0,1,,1,,0,Shimaoré,1,1,Toute,j aime etudier les math est apprendre beaucoup de choses
 13.0,Collège de Ouangani,Quatrième,Commune de Ouangani,240,9,120,60.0,9.0,1.0,0,0,,0,Université,0,Shimaoré,1,1,Aucune,J'ai pas compris vous pouvez reformulez la phrase s'il vous plait.
 14.0,Collège de Ouangani,Quatrième,Commune de Ouangani,0,1,0,60.0,,1.0,0,1,,1,Ecole spécialisée,0,Shimaoré,1,1,Additions,c'est difficile WESH
