@@ -3,11 +3,13 @@ import numpy as np
 import pandas as pd
 #%%
 df=pd.read_csv("Apprentissage.csv")
-dp=pd.read_csv("apprentissage.csv")
+dp=pd.read_csv("nettoye .csv")
 #dp=dp.drop(116)
 #dp.to_csv("apprentissage1.csv", index=False, encoding='utf-8')
 # %%
-df = df.drop(df.columns[[0,7,15,18,20,21,25,28,29,30]], axis=1)
+#df = df.drop(df.columns[[0,7,15,18,20,21,25,28,29,30]], axis=1)
+dp=dp.drop(dp.columns[[12,19,20]],axis=1)
+dp.to_csv(" Base_de_donnee.csv", index=False, encoding='utf-8')
 # %%
 df.to_csv("apprentissage.csv", index=False, encoding='utf-8')
 print(df)
@@ -27,6 +29,7 @@ print(df[["Age"]])
 df.to_csv("apprentissage.csv", index=False, encoding='utf-8')
 print(df)
 # %%
+#fp=pd.read_csv("apprentissag.csv")
 rows, cols = dp.shape
 print(f"Nombre de lignes : {rows}")
 print(f"Nombre de colonnes : {cols}")
@@ -183,8 +186,38 @@ print(dp)
 
 dp.to_csv("apprentissage.csv", index=False, encoding='utf-8')
 #%%
-dp=pd.read_csv("apprentissage.csv")
+dp=pd.read_csv("apprentissag.csv")
 def nettoyer_colonne(df, colonne):
-    df[colonne] = df[colonne].apply(lambda x: x if isinstance(x, (int, float)) and 0 <= x <= 10 else np.nan) 
-nettoyer_colonne(df, '')    
+    df[colonne] = pd.to_numeric(df[colonne], errors='coerce')  # Convertit en nombres, remplace les chaînes par NaN
+    df[colonne] = df[colonne].apply(lambda x: x if 0 <= x <= 10 else None)  # Garde uniquement les nombres entre 0 et 10
+nettoyer_colonne(dp, 'Moyenne_Maths') 
+dp.to_csv("nettoye.csv", index=False, encoding='utf-8')   
+# %%
+import csv
+
+def comparer_fichiers_csv(fichier1, fichier2):
+    with open(fichier1, 'r', encoding='utf-8') as f1, open(fichier2, 'r', encoding='utf-8') as f2:
+        reader1 = csv.reader(f1)
+        reader2 = csv.reader(f2)
+
+        lignes_fichier1 = list(reader1)
+        lignes_fichier2 = list(reader2)
+
+        max_lignes = max(len(lignes_fichier1), len(lignes_fichier2))
+
+        for i in range(max_lignes):
+            nb_col1 = len(lignes_fichier1[i]) if i < len(lignes_fichier1) else "Ligne absente"
+            nb_col2 = len(lignes_fichier2[i]) if i < len(lignes_fichier2) else "Ligne absente"
+
+            if nb_col1 != nb_col2:
+                print(f"🔴 Ligne {i+1} : {nb_col1} colonnes dans {fichier1}, {nb_col2} colonnes dans {fichier2}")
+            else:
+                print(f"✅ Ligne {i+1} : Même nombre de colonnes ({nb_col1})")
+
+# Remplace ces chemins par ceux de tes fichiers
+fichier1 = "apprentissage.csv"
+fichier2 = "apprentissag.csv"
+
+comparer_fichiers_csv(fichier1, fichier2)
+
 # %%
