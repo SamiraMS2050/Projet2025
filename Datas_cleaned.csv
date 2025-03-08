@@ -1,168 +1,168 @@
-"Age","Etablissement","Classe","Domicile","Temps_Maths.mn.","Temps_Sciences.mn.","Temps_Francais.mn.","Moyenne_Maths","Travail_Parents","Cours_Particuliers","Difficultes_6e","Changements_Parcours","Projets_BAC","Difficultes_Langue","Langue_Maternelle","Ne_Mayotte","Acces_Internet"
-16,"Lycée des Lumières","Seconde","Commune de Mamoudzou",300,1680,420,7,0,0,0,0,"université",1,"shimaoré",1,0
-16,"Lycée des Lumières","Seconde","Commune de Koungou",120,240,120,5,0,0,0,1,"bts",0,"shimaoré",1,1
-15,"Lycée des Lumières","Seconde","Commune de Koungou",120,180,240,7,1,0,0,0,"université",0,"shimaoré",1,1
-15,"Lycée des Lumières","Seconde","Commune de Koungou",120,60,120,8,0,0,1,1,"université",0,"shimaoré",0,0
-15,"Lycée des Lumières","Seconde","Commune de Koungou",1,120,60,1,0,0,0,1,"université",0,"shimaoré",1,1
-16,"Lycée des Lumières","Seconde","Commune de Koungou",10,60,240,4,1,0,1,1,"université",0,"shimaoré",1,1
-17,"Lycée des Lumières","Seconde","Commune de Mamoudzou",180,180,300,3,0,0,1,1,"université",0,"shimaoré",1,0
-16,"Lycée des Lumières","Seconde","Commune de Mamoudzou",540,1200,240,9,1,0,0,1,"ecole_spécialisée",0,"shimaoré",0,1
-16,"Lycée des Lumières","Seconde","Commune de Koungou",300,1680,420,5,0,0,1,0,"université",0,"shimaoré",1,0
-16,"Lycée de Dembéni","Première","Commune de Mamoudzou",0,0,0,6,1,0,0,0,"bts",1,"shimaoré",1,1
-17,"Lycée de Dembéni","Première","Commune de Mamoudzou",420,180,840,9,1,1,0,1,"réflexion",1,"shimaoré",1,1
-17,"Lycée de Dembéni","Première STI2D","Commune de Mamoudzou",30,30,30,5,0,0,0,1,"but",0,"shimaoré",1,1
-16,"Lycée des Lumières","Seconde","Commune de Koungou",420,480,120,9,0,0,1,0,"université",0,"shimaoré",0,0
+"Age","Etablissement","Classe","Commune.de..domicile","Temps_Maths.mn.","Temps_Sciences.mn.","Temps_Francais.mn.","Moyenne_Maths","Travail_Parents","Cours_Particuliers","Difficultes_6e","Changements_Parcours","Projets_BAC","Difficultes_Langue","Langue_Maternelle","Ne_Mayotte","Acces_Internet"
+16,"Lycée des Lumières","Seconde","Commune de Mamoudzou",300,1680,420,7,0,0,0,0,"université",1,"Shimaoré",1,0
+16,"Lycée des Lumières","Seconde","Commune de Koungou",120,240,120,5,0,0,0,1,"bts",0,"Shimaoré",1,1
+15,"Lycée des Lumières","Seconde","Commune de Koungou",120,180,240,7,1,0,0,0,"université",0,"Shimaoré",1,1
+15,"Lycée des Lumières","Seconde","Commune de Koungou",120,60,120,8,0,0,1,1,"université",0,"Shimaoré",0,0
+15,"Lycée des Lumières","Seconde","Commune de Koungou",1,120,60,1,0,0,0,1,"université",0,"Shimaoré",1,1
+16,"Lycée des Lumières","Seconde","Commune de Koungou",10,60,240,4,1,0,1,1,"université",0,"Shimaoré",1,1
+17,"Lycée des Lumières","Seconde","Commune de Mamoudzou",180,180,300,3,0,0,1,1,"université",0,"Shimaoré",1,0
+16,"Lycée des Lumières","Seconde","Commune de Mamoudzou",540,1200,240,9,1,0,0,1,"réflexion",0,"Shimaoré",0,1
+16,"Lycée des Lumières","Seconde","Commune de Koungou",300,1680,420,5,0,0,1,0,"université",0,"Shimaoré",1,0
+16,"Lycée de Dembéni","Première","Commune de Mamoudzou",0,0,0,6,1,0,0,0,"université",1,"Shimaoré",1,1
+17,"Lycée de Dembéni","Première","Commune de Mamoudzou",420,180,840,9,1,1,0,1,"réflexion",1,"Shimaoré",1,1
+17,"Lycée de Dembéni","1STI2D","Commune de Mamoudzou",30,30,30,5,0,0,0,1,"but",0,"Shimaoré",1,1
+16,"Lycée des Lumières","Seconde","Commune de Koungou",420,480,120,9,0,0,1,0,"université",0,"Shimaoré",0,0
 16,"Lycée de Dembéni","Première","Commune de Chiconi",180,240,180,5,1,0,0,0,"bts",0,"kibushi",1,1
-16,"Lycée des Lumières","Seconde","Commune de Koungou",420,480,360,9,0,0,1,1,"université",0,"shimaoré",0,0
+16,"Lycée des Lumières","Seconde","Commune de Koungou",420,480,360,9,0,0,1,1,"université",0,"Shimaoré",0,0
 16,"Lycée de Dembéni","Première","Commune de M'Tsangamouji",30,30,30,5,1,0,0,0,"bts",0,"kibushi",1,1
-17,"Lycée de Dembéni","Première","Commune de Dembeni",240,240,180,6,0,0,0,0,"université",0,"shimaoré",1,1
-16,"Lycée de Dembéni","Première","Commune de Mamoudzou",480,360,240,7,1,0,1,0,"université",0,"shimaoré",0,0
-16,"Lycée de Dembéni","Première","Commune de Ouangani",360,300,240,6,1,0,0,1,"université",0,"shimaoré",1,0
-17,"Lycée des Lumières","Terminale","Commune de Koungou",180,600,120,5,1,0,0,0,"université",1,"shimaoré",1,1
-17,"Lycée de Dembéni","Première","Commune de Mamoudzou",20,20,60,4,0,0,0,0,"université",0,"shimaoré",0,1
-17,"Lycée des Lumières","Terminale","Commune de Koungou",180,360,60,8.5,1,0,1,1,"université",1,"shimaoré",1,1
+17,"Lycée de Dembéni","Première","Commune de Dembeni",240,240,180,6,0,0,0,0,"université",0,"Shimaoré",1,1
+16,"Lycée de Dembéni","Première","Commune de Mamoudzou",480,360,240,7,1,0,1,0,"université",0,"Shimaoré",0,0
+16,"Lycée de Dembéni","Première","Commune de Ouangani",360,300,240,6,1,0,0,1,"université",0,"Shimaoré",1,0
+17,"Lycée des Lumières","Terminale","Commune de Koungou",180,600,120,5,1,0,0,0,"université",1,"Shimaoré",1,1
+17,"Lycée de Dembéni","Première","Commune de Mamoudzou",20,20,60,4,0,0,0,0,"université",0,"Shimaoré",0,1
+17,"Lycée des Lumières","Terminale","Commune de Koungou",180,360,60,8.5,1,0,1,1,"université",1,"Shimaoré",1,1
 17,"Lycée de Dembéni","Première","Commune de M'Tsangamouji",240,180,120,8,1,0,0,0,"université",0,"kibushi",1,1
-19,"Lycée des Lumières","BTS","Commune de Mamoudzou",0,60,30,7,1,0,1,0,"bts",0,"shimaoré",1,1
-18,"Lycée des Lumières","Terminale","Commune de Mamoudzou",0,240,60,5,1,0,0,0,"université",0,"shimaoré",1,1
-15,"Lycée de Mamoudzou Nord","Seconde","Commune de Dembeni",60,60,60,5,0,0,0,0,"ecole_de_commerce",0,"shimaoré",1,1
-16,"Lycée de Mamoudzou Nord","Seconde","Commune de Koungou",240,60,240,4,0,0,0,1,"université",1,"shimaoré",1,0
-16,"Lycée des Lumières","Première","Commune de Mamoudzou",0,300,300,2,1,0,0,0,"université",0,"shimaoré",1,1
-17,"Lycée des Lumières","Terminale","Commune de Koungou",0,30,120,2,0,0,0,0,"université",0,"shimaoré",1,1
-20,"Lycée des Lumières","BTS","Commune de Mamoudzou",120,180,60,4,0,0,1,1,"université",0,"shimaoré",1,0
-16,"Lycée des Lumières","Première","Commune de Koungou",0,180,120,4,1,0,1,1,"ecole_spécialisée",0,"shindzouani",0,1
-17,"Lycée des Lumières","Terminale","Commune de Koungou",120,360,120,8.5,1,0,0,1,"université",1,"shimaoré",1,1
-16,"Lycée des Lumières","Seconde","Commune de Koungou",300,120,60,8,0,0,0,0,"université",1,"shimaoré",1,1
-18,"Lycée des Lumières","Terminale","Commune de Mamoudzou",300,420,720,6,1,0,0,0,"université",0,"français",1,1
-16,"Lycée des Lumières","Première","Commune de Koungou",720,480,480,8,1,0,0,1,"université",0,"shimaoré",1,1
-18,"Lycée des Lumières","Terminale STMG","Commune de Koungou",60,600,120,2,0,0,0,1,"université",0,"shimaoré",1,0
-16,"Lycée des Lumières","Seconde","Commune de Koungou",60,60,0,5,0,0,0,0,"bts",0,"shimaoré",1,0
-15,"Lycée des Lumières","Première ST2S","Commune de Koungou",0,180,300,7,1,0,0,0,"ecole_spécialisée",0,"shimaoré",0,1
-19,"Lycée des Lumières","Terminale","Commune de Mamoudzou",0,120,120,1,1,0,0,1,"travailler",0,"français",0,1
-17,"Lycée des Lumières","Terminale","Commune de Mamoudzou",0,0,120,1.58,0,0,0,0,"université",1,"shimaoré",1,1
-17,"Lycée des Lumières","Terminale STMG","Commune de Bandraboua",360,420,120,5,0,0,0,0,"bts",0,"shimaoré",1,1
-18,"Lycée des Lumières","Terminale","Commune de Mamoudzou",0,120,600,2,0,0,1,0,"bts",0,"shimaoré",1,0
-17,"Lycée des Lumières","Seconde","Commune de Koungou",60,60,60,5,1,0,0,1,"université",0,"shimaoré",0,1
-17,"Lycée des Lumières","Première STD2A","Commune de Koungou",60,0,0,3,1,0,1,1,"ecole_spécialisée",1,"autres",1,1
-15,"Lycée des Lumières","Seconde","Commune de Koungou",60,60,120,4,1,0,0,0,"université",1,"shimaoré",1,1
-16,"Lycée des Lumières","Première STMG","Commune de Mamoudzou",300,0,120,9,0,0,0,0,"université",0,"shimaoré",1,1
-16,"Lycée des Lumières","Seconde","Commune de Mamoudzou",300,60,240,2,1,0,0,0,"université",0,"malgache",0,1
-18,"Lycée des Lumières","Terminale","Commune de Koungou",3,0,120,3,1,0,0,1,"bts",0,"shimaoré",1,1
-19,"Lycée de Mamoudzou Nord","Terminale OTM","Commune de Koungou",60,0,30,7,0,0,1,1,"université",1,"shimaoré",1,1
-15,"Lycée des Lumières","Seconde","Commune de Mamoudzou",0,180,360,6,0,0,0,0,"université",0,"autres",0,0
-20,"Lycée des Lumières","Terminale","Commune de Koungou",60,60,120,2,1,0,0,1,"université",0,"shimaoré",0,1
-17,"Lycée des Lumières","Première","Commune de Koungou",120,30,240,3,0,0,1,1,"ecole_spécialisée",0,"shimaoré",0,1
-17,"Lycée des Lumières","Terminale","Commune de Koungou",120,240,480,4,1,0,0,1,"ecole_spécialisée",0,"shindzouani",0,1
-15,"Lycée des Lumières","Seconde","Commune de Mamoudzou",60,120,60,5,1,0,1,1,"université",0,"shimaoré",1,1
-18,"Lycée des Lumières","Terminale","Commune de Tsingoni",0,0,0,4,0,0,1,0,"université",1,"shindzouani",0,0
-15,"Lycée des Lumières","Seconde","Commune de Koungou",180,300,60,9.5,1,0,1,1,"",0,"malgache",1,1
-17,"Lycée des Lumières","Première AGORA","Commune de Mamoudzou",120,0,0,5,0,0,0,1,"bts",1,"shimaoré",1,0
-18,"Lycée des Lumières","Terminale","Commune de Koungou",0,120,120,5,0,0,0,0,"université",0,"shimaoré",1,1
-15,"Lycée des Lumières","Seconde","Commune de Mamoudzou",5,5,0,6,0,0,0,1,"université",0,"shimaoré",0,0
-16,"Lycée des Lumières","Seconde","Commune de Mamoudzou",60,30,120,6,0,0,0,0,"université",0,NA,0,1
-17,"Lycée des Lumières","Première STMG","Commune de Koungou",120,180,120,10,0,1,1,1,"université",0,"shimaoré",1,0
-16,"Lycée des Lumières","Seconde","Commune de Koungou",180,240,60,8,1,0,0,1,"réflexion",0,"français",0,1
-16,"Lycée des Lumières","Première","Commune de Koungou",60,120,60,5,1,0,1,0,"ecole_spécialisée",0,"français",1,1
-16,"Lycée des Lumières","Seconde","Commune de Mamoudzou",360,120,240,7,1,1,1,1,"université",0,NA,1,1
-15,"Lycée des Lumières","Seconde","Commune de Koungou",60,60,0,5,0,0,0,0,"université",0,"shimaoré",1,0
-15,"Lycée des Lumières","Seconde","Commune de Koungou",0,30,0,6,1,0,1,0,"ecole_spécialisée",1,"autres",0,1
-17,"Lycée des Lumières","Terminale","Commune de Mamoudzou",180,120,60,5,1,0,1,0,"université",0,"shimaoré",1,1
-16,"Lycée des Lumières","Seconde","Commune de Mamoudzou",120,300,180,5,0,0,1,0,"bts",0,"shimaoré",1,1
-16,"Lycée de Mamoudzou Nord","Terminale","Commune de Mamoudzou",0,180,180,5,0,0,0,0,"bts",0,"shimaoré",0,0
-18,"Lycée des Lumières","Terminale","Commune de Mamoudzou",60,180,120,5,0,0,0,1,"université",0,"shimaoré",0,0
-17,"Lycée des Lumières","Terminale","Commune de Mamoudzou",120,720,360,8,0,0,1,1,"université",0,"shindzouani",0,1
-16,"Lycée des Lumières","Seconde","Commune de Koungou",120,120,180,9,1,0,1,0,"ecole_spécialisée",0,"shimaoré",0,1
-17,"Lycée des Lumières","Terminale","Commune de Mamoudzou",120,240,60,5,1,0,1,0,"université",0,"shimaoré",1,1
-18,"Lycée des Lumières","Terminale STMG","Commune de Koungou",180,540,240,6,0,0,0,0,"bts",0,"shimaoré",1,0
-17,"Lycée des Lumières","Première MCV","Commune de Pamandzi",240,120,60,8,1,0,0,1,"bts",0,"shimaoré",0,0
-17,"Lycée des Lumières","Première STMG","Commune de Koungou",20,60,120,6,1,0,0,0,"université",0,"shimaoré",1,1
-16,"Lycée des Lumières","Seconde","Commune de Koungou",0,120,0,4,1,0,0,0,"université",0,"shimaoré",1,1
-16,"Lycée de Mamoudzou Nord","Première","Commune de Mamoudzou",60,35,60,4,0,0,1,0,"université",0,"shimaoré",1,0
-19,"Lycée des Lumières","BTS","Commune de Dembeni",240,120,180,4,0,0,1,0,"université",1,"shimaoré",1,0
-16,"Lycée de Mamoudzou Nord","Seconde","Commune de Koungou",300,300,300,5,1,0,1,1,"université",0,"shimaoré",0,1
-14,"Lycée des Lumières","Seconde","Commune de Koungou",0,0,0,4,1,0,0,0,"université",0,"shimaoré",1,0
-17,"Lycée des Lumières","Terminale STMG","Commune de Mamoudzou",60,180,120,5,1,0,0,1,"université",0,"shimaoré",1,1
-16,"Lycée de Mamoudzou Nord","Seconde","Commune de Koungou",420,0,0,5,1,0,0,0,"ecole_spécialisée",1,NA,1,1
-14,"Lycée des Lumières","Seconde","Commune de Mamoudzou",60,120,120,5,1,1,0,1,"université",0,NA,1,1
-15,"Lycée des Lumières","Seconde","Commune de Mamoudzou",240,120,240,5,1,1,0,0,"réflexion",0,"shimaoré",1,1
-17,"Lycée des Lumières","Première","Commune de Mamoudzou",60,30,180,5.5,1,0,0,1,"université",0,NA,1,1
-15,"Lycée des Lumières","Seconde","Commune de Mamoudzou",120,120,180,1,1,0,0,0,"réflexion",0,"shimaoré",0,0
-15,"Lycée des Lumières","Seconde","Commune de Tsingoni",120,180,120,10,1,0,1,0,"université",0,"kibushi",1,0
-15,"Lycée des Lumières","Seconde","Commune de Mamoudzou",30,180,60,4.5,1,0,1,1,"université",1,"shimaoré",1,1
-18,"Lycée des Lumières","Terminale","Commune de Koungou",420,1260,300,3,0,0,0,0,"université",1,"shimaoré",1,0
-18,"Lycée des Lumières","BTS","Commune de Mamoudzou",120,240,180,5,0,0,0,1,"ecole_de_commerce",1,"shimaoré",1,1
-17,"Lycée de Dembéni","Première","Commune de Pamandzi",60,60,240,7,0,0,0,1,"université",0,"shimaoré",0,1
-13,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,600,0,7,1,0,0,1,"travailler",0,"shimaoré",1,0
-11,"Collège de Ouangani","Sixième","Commune de Ouangani",60,60,120,9,1,1,1,1,"réflexion",1,"français",1,1
+19,"Lycée des Lumières","BTS","Commune de Mamoudzou",0,60,30,7,1,0,1,0,"bts",0,"Shimaoré",1,1
+18,"Lycée des Lumières","Terminale","Commune de Mamoudzou",0,240,60,5,1,0,0,0,"université",0,"Shimaoré",1,1
+15,"Lycée de Mamoudzou Nord","Seconde","Commune de Dembeni",60,60,60,5,0,0,0,0,"ecole_de_commerce",0,"Shimaoré",1,1
+16,"Lycée de Mamoudzou Nord","Seconde","Commune de Koungou",240,60,240,4,0,0,0,1,"université",1,"Shimaoré",1,0
+16,"Lycée des Lumières","Première","Commune de Mamoudzou",0,300,300,2,1,0,0,0,"université",0,"Shimaoré",1,1
+17,"Lycée des Lumières","Terminale","Commune de Koungou",0,30,120,2,0,0,0,0,"université",0,"Shimaoré",1,1
+20,"Lycée des Lumières","BTS","Commune de Mamoudzou",120,180,60,4,0,0,1,1,"université",0,"Shimaoré",1,0
+16,"Lycée des Lumières","Première","Commune de Koungou",0,180,120,4,1,0,1,1,"ecole_spécialisée",0,"Shindzouani",0,1
+17,"Lycée des Lumières","Terminale","Commune de Koungou",120,360,120,8.5,1,0,0,1,"université",1,"Shimaoré",1,1
+16,"Lycée des Lumières","Seconde","Commune de Koungou",300,120,60,8,0,0,0,0,"université",1,"Shimaoré",1,1
+18,"Lycée des Lumières","Terminale","Commune de Mamoudzou",300,420,720,6,1,0,0,0,"université",0,"Français",1,1
+16,"Lycée des Lumières","Première","Commune de Koungou",720,480,480,8,1,0,0,1,"université",0,"Shimaoré",1,1
+18,"Lycée des Lumières","STMG","Commune de Koungou",60,600,120,2,0,0,0,1,"université",0,"Shimaoré",1,0
+16,"Lycée des Lumières","Seconde","Commune de Koungou",60,60,0,5,0,0,0,0,"bts",0,"Shimaoré",1,0
+15,"Lycée des Lumières","1st2s","Commune de Koungou",0,180,300,7,1,0,0,0,"université",0,"Shimaoré",0,1
+19,"Lycée des Lumières","Terminale","Commune de Mamoudzou",0,120,120,1,1,0,0,1,"travailler",0,"Français",0,1
+17,"Lycée des Lumières","Terminale","Commune de Mamoudzou",0,0,120,1.58,0,0,0,0,"université",1,"Shimaoré",1,1
+17,"Lycée des Lumières","Terminale STMG","Commune de Bandraboua",360,420,120,5,0,0,0,0,"bts",0,"Shimaoré",1,1
+18,"Lycée des Lumières","Terminale","Commune de Mamoudzou",0,120,600,2,0,0,1,0,"bts",0,"Shimaoré",1,0
+17,"Lycée des Lumières","Seconde","Commune de Koungou",60,60,60,5,1,0,0,1,"université",0,"Shimaoré",0,1
+17,"Lycée des Lumières","1 std2a","Commune de Koungou",60,0,0,3,1,0,1,1,"ecole_spécialisée",1,"Creole",1,1
+15,"Lycée des Lumières","Seconde","Commune de Koungou",60,60,120,4,1,0,0,0,"université",1,"Shimaoré",1,1
+16,"Lycée des Lumières","Première STMG","Commune de Mamoudzou",300,0,120,9,0,0,0,0,"université",0,"Shimaoré",1,1
+16,"Lycée des Lumières","Seconde","Commune de Mamoudzou",300,60,240,2,1,0,0,0,"réflexion",0,"Malgache",0,1
+18,"Lycée des Lumières","Terminale","Commune de Koungou",3,0,120,3,1,0,0,1,"bts",0,"Shimaoré",1,1
+19,"Lycée de Mamoudzou Nord","T OTM","Commune de Koungou",60,0,30,7,0,0,1,1,"université",1,"Shimaoré",1,1
+15,"Lycée des Lumières","Seconde","Commune de Mamoudzou",0,180,360,6,0,0,0,0,"université",0,"Swahili",0,0
+20,"Lycée des Lumières","Terminale","Commune de Koungou",60,60,120,2,1,0,0,1,"université",0,"Shimaoré",0,1
+17,"Lycée des Lumières","Première","Commune de Koungou",120,30,240,3,0,0,1,1,"ecole_spécialisée",0,"Shimaoré",0,1
+17,"Lycée des Lumières","Terminale","Commune de Koungou",120,240,480,4,1,0,0,1,"ecole_spécialisée",0,"Shindzouani",0,1
+15,"Lycée des Lumières","Seconde","Commune de Mamoudzou",60,120,60,5,1,0,1,1,"université",0,"Shimaoré",1,1
+18,"Lycée des Lumières","Terminale","Commune de Tsingoni",0,0,0,4,0,0,1,0,"université",1,"Shindzouani",0,0
+15,"Lycée des Lumières","Seconde","Commune de Koungou",180,300,60,9.5,1,0,1,1,"",0,"Malgache",1,1
+17,"Lycée des Lumières","1 agora","Commune de Mamoudzou",120,0,0,5,0,0,0,1,"bts",1,"Shimaoré",1,0
+18,"Lycée des Lumières","Terminale","Commune de Koungou",0,120,120,5,0,0,0,0,"université",0,"Shimaoré",1,1
+15,"Lycée des Lumières","Seconde","Commune de Mamoudzou",5,5,0,6,0,0,0,1,"université",0,"Shimaoré",0,0
+16,"Lycée des Lumières","Seconde","Commune de Mamoudzou",60,30,120,6,0,0,0,0,"université",0,"malgache et comorien",0,1
+17,"Lycée des Lumières","Première STMG","Commune de Koungou",120,180,120,10,0,1,1,1,"université",0,"Shimaoré",1,0
+16,"Lycée des Lumières","Seconde","Commune de Koungou",180,240,60,8,1,0,0,1,"réflexion",0,"Français",0,1
+16,"Lycée des Lumières","Première","Commune de Koungou",60,120,60,5,1,0,1,0,"ecole_spécialisée",0,"Français",1,1
+16,"Lycée des Lumières","Seconde","Commune de Mamoudzou",360,120,240,7,1,1,1,1,"université",0,"malgache , l'anjouanais, maore et  creo",1,1
+15,"Lycée des Lumières","Seconde","Commune de Koungou",60,60,0,5,0,0,0,0,"université",0,"Shimaoré",1,0
+15,"Lycée des Lumières","Seconde","Commune de Koungou",0,30,0,6,1,0,1,0,"ecole_spécialisée",1,"russe",0,1
+17,"Lycée des Lumières","Terminale","Commune de Mamoudzou",180,120,60,5,1,0,1,0,"université",0,"Shimaoré",1,1
+16,"Lycée des Lumières","Seconde","Commune de Mamoudzou",120,300,180,5,0,0,1,0,"université",0,"Shimaoré",1,1
+16,"Lycée de Mamoudzou Nord","Terminale","Commune de Mamoudzou",0,180,180,5,0,0,0,0,"bts",0,"Shimaoré",0,0
+18,"Lycée des Lumières","Terminale","Commune de Mamoudzou",60,180,120,5,0,0,0,1,"université",0,"Shimaoré",0,0
+17,"Lycée des Lumières","Terminale","Commune de Mamoudzou",120,720,360,8,0,0,1,1,"université",0,"Shindzouani",0,1
+16,"Lycée des Lumières","Seconde","Commune de Koungou",120,120,180,9,1,0,1,0,"ecole_spécialisée",0,"Shimaoré",0,1
+17,"Lycée des Lumières","Terminale","Commune de Mamoudzou",120,240,60,5,1,0,1,0,"université",0,"Shimaoré",1,1
+18,"Lycée des Lumières","Terminale STMG","Commune de Koungou",180,540,240,6,0,0,0,0,"bts",0,"Shimaoré",1,0
+17,"Lycée des Lumières","1mcv1","Commune de Pamandzi",240,120,60,8,1,0,0,1,"bts",0,"Shimaoré",0,0
+17,"Lycée des Lumières","Première STMG","Commune de Koungou",20,60,120,6,1,0,0,0,"université",0,"Shimaoré",1,1
+16,"Lycée des Lumières","Seconde","Commune de Koungou",0,120,0,4,1,0,0,0,"université",0,"Shimaoré",1,1
+16,"Lycée de Mamoudzou Nord","Première","Commune de Mamoudzou",60,35,60,4,0,0,1,0,"université",0,"Shimaoré",1,0
+19,"Lycée des Lumières","BTS","Commune de Dembeni",240,120,180,4,0,0,1,0,"université",1,"Shimaoré",1,0
+16,"Lycée de Mamoudzou Nord","Seconde","Commune de Koungou",300,300,300,5,1,0,1,1,"université",0,"Shimaoré",0,1
+14,"Lycée des Lumières","Seconde","Commune de Koungou",0,0,0,4,1,0,0,0,"université",0,"Shimaoré",1,0
+17,"Lycée des Lumières","Terminale STMG","Commune de Mamoudzou",60,180,120,5,1,0,0,1,"université",0,"Shimaoré",1,1
+16,"Lycée de Mamoudzou Nord","Seconde","Commune de Koungou",420,0,0,5,1,0,0,0,"ecole_spécialisée",1,"francais/ maore",1,1
+14,"Lycée des Lumières","Seconde","Commune de Mamoudzou",60,120,120,5,1,1,0,1,"université",0,"malgache et  shimaore",1,1
+15,"Lycée des Lumières","Seconde","Commune de Mamoudzou",240,120,240,5,1,1,0,0,"réflexion",0,"Shimaoré",1,1
+17,"Lycée des Lumières","Première","Commune de Mamoudzou",60,30,180,5.5,1,0,0,1,"université",0,"shimaorais et kibushi",1,1
+15,"Lycée des Lumières","Seconde","Commune de Mamoudzou",120,120,180,1,1,0,0,0,"réflexion",0,"Shimaoré",0,0
+15,"Lycée des Lumières","Seconde","majicavo / tsingoni",120,180,120,10,1,0,1,0,"université",0,"kibushi",1,0
+15,"Lycée des Lumières","Seconde","Commune de Mamoudzou",30,180,60,4.5,1,0,1,1,"université",1,"Shimaoré",1,1
+18,"Lycée des Lumières","Terminale","Commune de Koungou",420,1260,300,3,0,0,0,0,"université",1,"Shimaoré",1,0
+18,"Lycée des Lumières","BTS","Commune de Mamoudzou",120,240,180,5,0,0,0,1,"ecole_de_commerce",1,"Shimaoré",1,1
+17,"Lycée de Dembéni","Première","Commune de Pamandzi",60,60,240,7,0,0,0,1,"université",0,"Shimaoré",0,1
+13,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,600,0,7,1,0,0,1,"travailler",0,"Shimaoré",1,0
+11,"Collège de Ouangani","Sixième","Commune de Ouangani",60,60,120,9,1,1,1,1,"réflexion",1,"Français",1,1
 13,"Collège de Ouangani","Cinquième","Commune de Ouangani",60,60,120,10,0,0,0,1,"réflexion",0,"kibushi",1,1
-14,"Collège de Ouangani","Cinquième","Commune de Ouangani",0,120,60,8,1,1,0,0,"université",0,"français",1,0
-13,"Collège de Ouangani","Cinquième","Commune de Ouangani",240,60,180,9,1,0,0,0,"université",0,"shimaoré",1,0
-12,"Collège de Ouangani","Cinquième","Commune de Ouangani",120,60,120,10,1,0,0,0,"ecole_spécialisée",0,"français",0,1
-13,"Collège de Ouangani","Cinquième","Commune de Ouangani",0,120,0,8,1,0,0,0,"ecole_spécialisée",0,"shimaoré",0,0
-12,"Collège de Ouangani","Cinquième","Commune de Ouangani",120,120,60,6,0,0,1,0,"ecole_spécialisée",0,"shimaoré",1,1
-12,"Collège de Ouangani","Cinquième","Commune de Ouangani",60,240,600,1,1,0,1,0,"université",1,"shimaoré",0,1
-12,"Collège de Ouangani","Cinquième","Commune de Ouangani",60,60,60,5,1,0,1,0,"ecole_spécialisée",1,"kibushi",1,1
-15,"Collège de Ouangani","Cinquième","Commune de Ouangani",0,60,600,8,1,1,0,0,"ecole_spécialisée",0,"shimaoré",1,1
-12,"Collège de Ouangani","Cinquième","Commune de Ouangani",0,240,120,4,1,1,0,0,"ecole_spécialisée",0,"shimaoré",1,0
-12,"Collège de Ouangani","Cinquième","Commune de Ouangani",60,60,60,4,1,0,0,0,"université",1,"shimaoré",1,1
-13,"Collège de Ouangani","Cinquième","Commune de Ouangani",0,180,120,7,1,1,1,0,"ecole_spécialisée",0,"shimaoré",1,1
-12,"Collège de Ouangani","Cinquième","Commune de Ouangani",60,120,60,5,1,0,0,0,"université",0,NA,0,1
-12,"Collège de Ouangani","Cinquième","Commune de Ouangani",240,60,120,9,1,1,0,0,"université",1,"shimaoré",1,0
-13,"Collège de Ouangani","Cinquième","Commune de Ouangani",0,0,0,1,1,0,1,1,"ecole_spécialisée",1,"shimaoré",1,0
-13,"Collège de Ouangani","Cinquième","Commune de Ouangani",900,180,0,5,0,0,0,0,"université",0,"shimaoré",1,1
-13,"Collège de Ouangani","Cinquième","Commune de Ouangani",180,180,240,8,0,0,1,1,"réflexion",0,"français",1,1
-11,"Collège de Ouangani","Cinquième","Commune de Ouangani",60,20,50,10,1,0,1,1,"ecole_spécialisée",0,"shimaoré",1,1
-13,"Collège de Ouangani","Cinquième","Commune de Ouangani",120,180,60,8,1,0,0,0,"université",0,"français",0,1
-13,"Collège de Ouangani","Cinquième","Commune de Ouangani",0,60,60,2,1,0,1,0,"ecole_spécialisée",1,"shimaoré",0,0
-13,"Collège de Ouangani","Quatrième","Commune de Ouangani",60,180,60,5,0,0,0,1,"réflexion",0,"shimaoré",1,1
+14,"Collège de Ouangani","Cinquième","Commune de Ouangani",0,120,60,8,1,1,0,0,"ecole_spécialisée",0,"Français",1,0
+13,"Collège de Ouangani","Cinquième","Commune de Ouangani",240,60,180,9,1,0,0,0,"université",0,"Shimaoré",1,0
+12,"Collège de Ouangani","Cinquième","Commune de Ouangani",120,60,120,10,1,0,0,0,"ecole_spécialisée",0,"Français",0,1
+13,"Collège de Ouangani","Cinquième","Commune de Ouangani",0,120,0,8,1,0,0,0,"ecole_spécialisée",0,"Shimaoré",0,0
+12,"Collège de Ouangani","Cinquième","Commune de Ouangani",120,120,60,6,0,0,1,0,"ecole_spécialisée",0,"Shimaoré",1,1
+12,"Collège de Ouangani","Cinquième","Commune de Ouangani",60,240,600,1,1,0,1,0,"université",1,"Shimaoré",0,1
+12,"Collège de Ouangani","Cinquième","Commune de Ouangani",60,60,60,5,1,0,1,0,"université",1,"kibushi",1,1
+15,"Collège de Ouangani","Cinquième","Commune de Ouangani",0,60,600,8,1,1,0,0,"ecole_spécialisée",0,"Shimaoré",1,1
+12,"Collège de Ouangani","Cinquième","Commune de Ouangani",0,240,120,4,1,1,0,0,"ecole_spécialisée",0,"Shimaoré",1,0
+12,"Collège de Ouangani","Cinquième","Commune de Ouangani",60,60,60,4,1,0,0,0,"université",1,"Shimaoré",1,1
+13,"Collège de Ouangani","Cinquième","Commune de Ouangani",0,180,120,7,1,1,1,0,"ecole_spécialisée",0,"Shimaoré",1,1
+12,"Collège de Ouangani","Cinquième","Commune de Ouangani",60,120,60,5,1,0,0,0,"université",0,"francais  et mayotte",0,1
+12,"Collège de Ouangani","Cinquième","Commune de Ouangani",240,60,120,9,1,1,0,0,"ecole_spécialisée",1,"Shimaoré",1,0
+13,"Collège de Ouangani","Cinquième","Commune de Ouangani",0,0,0,1,1,0,1,1,"ecole_spécialisée",1,"Shimaoré",1,0
+13,"Collège de Ouangani","Cinquième","Commune de Ouangani",900,180,0,5,0,0,0,0,"université",0,"Shimaoré",1,1
+13,"Collège de Ouangani","Cinquième","Commune de Ouangani",180,180,240,8,0,0,1,1,"réflexion",0,"Français",1,1
+11,"Collège de Ouangani","Cinquième","Commune de Ouangani",60,20,50,10,1,0,1,1,"ecole_spécialisée",0,"Shimaoré",1,1
+13,"Collège de Ouangani","Cinquième","Commune de Ouangani",120,180,60,8,1,0,0,0,"université",0,"Français",0,1
+13,"Collège de Ouangani","Cinquième","Commune de Ouangani",0,60,60,2,1,0,1,0,"université",1,"Shimaoré",0,0
+13,"Collège de Ouangani","Quatrième","Commune de Ouangani",60,180,60,5,0,0,0,1,"réflexion",0,"Shimaoré",1,1
 13,"Collège de Ouangani","Quatrième","Commune de Ouangani",60,0,0,5,1,0,1,0,"université",0,"kibushi",1,1
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",300,120,360,9,0,1,0,0,"université",1,"shimaoré",0,0
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",300,120,360,9,0,1,0,0,"université",1,"Shimaoré",0,0
 14,"Collège de Ouangani","Quatrième","Commune de Ouangani",15,120,15,9,1,0,0,0,"université",0,"kibushi",1,1
-13,"Collège de Ouangani","Quatrième","Commune de Ouangani",180,60,240,5,0,0,1,0,"bts",0,"shimaoré",1,1
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",120,240,120,8,1,0,0,0,"ecole_spécialisée",0,"shimaoré",1,1
-13,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,300,120,5,0,0,1,1,"ecole_spécialisée",0,"shimaoré",1,0
+13,"Collège de Ouangani","Quatrième","Commune de Ouangani",180,60,240,5,0,0,1,0,"bts",0,"Shimaoré",1,1
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",120,240,120,8,1,0,0,0,"ecole_spécialisée",0,"Shimaoré",1,1
+13,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,300,120,5,0,0,1,1,"ecole_spécialisée",0,"Shimaoré",1,0
 14,"Collège de Ouangani","Quatrième","Commune de Ouangani",15,15,15,9,1,0,0,0,"université",0,"kibushi",1,1
-13,"Collège de Ouangani","Quatrième","Commune de Ouangani",120,60,60,5,0,1,1,0,"ecole_spécialisée",0,"shimaoré",1,0
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",300,120,360,8,1,0,0,1,"ecole_spécialisée",0,"malgache",0,0
-13,"Collège de Ouangani","Quatrième","Commune de Ouangani",120,180,60,6,1,0,0,0,"université",0,"shimaoré",1,1
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",60,60,30,5,1,0,0,0,"université",0,"shimaoré",1,1
-13,"Collège de Ouangani","Quatrième","Commune de Ouangani",120,180,120,5,1,0,0,1,"ecole_spécialisée",0,"shimaoré",1,1
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",180,360,300,9,0,0,0,0,"université",0,"shimaoré",1,0
-15,"Collège de Ouangani","Quatrième","Commune de Ouangani",960,960,15,7,0,0,0,0,"université",0,"shimaoré",1,0
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",60,60,60,6,0,1,1,1,"ecole_spécialisée",0,"shimaoré",1,0
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",30,30,30,9,1,0,0,0,"université",0,"shimaoré",1,1
-12,"Collège de Ouangani","Quatrième","Commune de Ouangani",60,240,180,2,1,0,1,1,"université",0,"shimaoré",1,0
-22,"Lycée des Lumières","Première","Commune de Koungou",120,120,120,8,0,0,1,0,"université",1,"shimaoré",1,1
-16,"Lycée de Dembéni","Terminale","Commune de Mamoudzou",0,0,0,5,1,0,0,1,"",0,"français",1,1
+13,"Collège de Ouangani","Quatrième","Commune de Ouangani",120,60,60,5,0,1,1,0,"ecole_spécialisée",0,"Shimaoré",1,0
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",300,120,360,8,1,0,0,1,"ecole_spécialisée",0,"Malgache",0,0
+13,"Collège de Ouangani","Quatrième","Commune de Ouangani",120,180,60,6,1,0,0,0,"université",0,"Shimaoré",1,1
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",60,60,30,5,1,0,0,0,"université",0,"Shimaoré",1,1
+13,"Collège de Ouangani","Quatrième","Commune de Ouangani",120,180,120,5,1,0,0,1,"ecole_spécialisée",0,"Shimaoré",1,1
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",180,360,300,9,0,0,0,0,"université",0,"Shimaoré",1,0
+15,"Collège de Ouangani","Quatrième","Commune de Ouangani",960,960,15,7,0,0,0,0,"université",0,"Shimaoré",1,0
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",60,60,60,6,0,1,1,1,"ecole_spécialisée",0,"Shimaoré",1,0
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",30,30,30,9,1,0,0,0,"université",0,"Shimaoré",1,1
+12,"Collège de Ouangani","Quatrième","Commune de Ouangani",60,240,180,2,1,0,1,1,"université",0,"Shimaoré",1,0
+22,"Lycée des Lumières","1mcvAPP","Commune de Koungou",120,120,120,8,0,0,1,0,"université",1,"Shimaoré",1,1
+16,"Lycée de Dembéni","Terminale","Commune de Mamoudzou",0,0,0,5,1,0,0,1,"",0,"Français",1,1
 17,"Lycée de Dembéni","Terminale","Commune de M'Tsangamouji",0,60,0,4,1,0,0,1,"ecole_spécialisée",0,"kibushi",1,1
-17,"Lycée Younoussa Bamana","Terminale","Commune de Mamoudzou",0,60,120,5,1,0,1,1,"bts",0,"shimaoré",1,1
-17,"Lycée de Dembéni","Première","Commune de Mamoudzou",60,0,480,7,1,0,1,1,"université",0,"shimaoré",0,1
-18,"Lycée de Dembéni","Terminale","Commune de Dembeni",0,0,60,6,1,0,1,1,"université",0,"français",1,1
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,0,0,7,1,0,0,0,"réflexion",0,"shimaoré",1,0
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,0,0,9,1,0,0,0,"université",0,"shimaoré",1,1
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,0,0,4,1,0,1,0,"université",0,NA,1,1
-13,"Collège de Ouangani","Quatrième","Commune de Ouangani",60,120,60,5,1,0,1,0,"université",0,"shimaoré",1,0
-13,"Collège de Ouangani","Quatrième","Commune de Ouangani",60,120,0,5,1,0,1,1,"ecole_spécialisée",0,"shimaoré",1,1
-13,"Collège de Ouangani","Quatrième","Commune de Ouangani",240,120,60,9,1,0,0,0,"université",0,"shimaoré",1,1
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,0,60,5,1,0,1,1,"ecole_spécialisée",0,"shimaoré",1,1
-16,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,180,240,3,0,0,1,0,"réflexion",0,"shimaoré",1,0
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,0,0,3,0,0,0,0,"ecole_spécialisée",0,"shimaoré",1,0
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",180,180,60,5,0,0,1,0,"université",0,"shimaoré",0,0
+17,"Lycée Younoussa Bamana","Terminale","Commune de Mamoudzou",0,60,120,5,1,0,1,1,"bts",0,"Shimaoré",1,1
+17,"Lycée de Dembéni","Première","Commune de Mamoudzou",60,0,480,7,1,0,1,1,"université",0,"Shimaoré",0,1
+18,"Lycée de Dembéni","Terminale","Commune de Dembeni",0,0,60,6,1,0,1,1,"université",0,"Français",1,1
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,0,0,7,1,0,0,0,"réflexion",0,"Shimaoré",1,0
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,0,0,9,1,0,0,0,"université",0,"Shimaoré",1,1
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,0,0,4,1,0,1,0,"université",0,"kiboushi et  kimaore",1,1
+13,"e15","Quatrième","Commune de Ouangani",60,120,60,5,1,0,1,0,"université",0,"Shimaoré",1,0
+13,"Collège de Ouangani","Quatrième","Commune de Ouangani",60,120,0,5,1,0,1,1,"ecole_spécialisée",0,"Shimaoré",1,1
+13,"Collège de Ouangani","Quatrième","Commune de Ouangani",240,120,60,9,1,0,0,0,"université",0,"Shimaoré",1,1
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,0,60,5,1,0,1,1,"ecole_spécialisée",0,"Shimaoré",1,1
+16,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,180,240,3,0,0,1,0,"réflexion",0,"Shimaoré",1,0
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,0,0,3,0,0,0,0,"ecole_spécialisée",0,"Shimaoré",1,0
+14,"e15","Quatrième","Commune de Ouangani",180,180,60,5,0,0,1,0,"université",0,"Shimaoré",0,0
 14,"Collège de Ouangani","Quatrième","Commune de Ouangani",60,60,120,3,0,0,1,1,"ecole_spécialisée",0,"kibushi",1,1
-13,"Collège de Ouangani","Quatrième","Commune de Ouangani",180,60,240,4,0,1,1,1,"ecole_spécialisée",0,"shimaoré",1,0
-13,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,600,300,8,1,0,0,0,"université",0,"shimaoré",1,1
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",120,240,420,5,0,0,0,1,"ecole_spécialisée",0,"shimaoré",1,1
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,60,120,5,0,0,1,1,"université",1,"shimaoré",0,0
-15,"Collège de Ouangani","Quatrième","Commune de Ouangani",60,60,45,7,0,0,1,1,"ecole_spécialisée",1,"shimaoré",0,1
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",120,60,120,10,1,1,1,1,"ecole_spécialisée",1,"français",1,0
-13,"Collège de Ouangani","Quatrième","Commune de Ouangani",120,120,120,5,0,0,1,0,"ecole_spécialisée",0,"shimaoré",1,0
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,60,60,7,0,0,1,0,"université",0,"shimaoré",0,0
-13,"Collège de Ouangani","Quatrième","Commune de Ouangani",120,420,300,10,0,0,1,0,"ecole_spécialisée",0,"shimaoré",0,1
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",5,25,60,5,1,0,0,0,"université",0,NA,1,1
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",10,40,50,4,1,0,0,0,"ecole_spécialisée",0,"shimaoré",0,0
-14,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,60,60,1,1,0,1,1,"ecole_spécialisée",0,NA,1,1
-13,"Collège de Ouangani","Quatrième","Commune de Ouangani",120,60,240,5,1,0,1,0,"ecole_spécialisée",1,"shimaoré",1,1
-15,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,60,120,4,0,0,1,1,"ecole_spécialisée",1,"shimaoré",0,0
-17,"Lycée de Dembéni","Première","Commune de Mamoudzou",120,120,120,7,0,0,0,1,"université",1,"shimaoré",1,0
-17,"Lycée Younoussa Bamana","Première STI2D","Commune de Mamoudzou",300,300,180,6,0,0,1,1,"université",0,"shimaoré",1,1
-17,"Lycée des Lumières","Terminale STMG","Commune de Mamoudzou",0,120,240,8,0,0,0,1,"bts",0,"français",1,1
-13,"Collège de Ouangani","Quatrième","Commune de Ouangani",60,60,60,10,1,1,0,1,"réflexion",0,"shimaoré",1,1
+13,"Collège de Ouangani","Quatrième","Commune de Ouangani",180,60,240,4,0,1,1,1,"ecole_spécialisée",0,"Shimaoré",1,0
+13,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,600,300,8,1,0,0,0,"université",0,"Shimaoré",1,1
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",120,240,420,5,0,0,0,1,"ecole_spécialisée",0,"Shimaoré",1,1
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,60,120,5,0,0,1,1,"université",1,"Shimaoré",0,0
+15,"Collège de Ouangani","Quatrième","Commune de Ouangani",60,60,45,7,0,0,1,1,"ecole_spécialisée",1,"Shimaoré",0,1
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",120,60,120,10,1,1,1,1,"ecole_spécialisée",1,"Français",1,0
+13,"Collège de Ouangani","Quatrième","Commune de Ouangani",120,120,120,5,0,0,1,0,"ecole_spécialisée",0,"Shimaoré",1,0
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,60,60,7,0,0,1,0,"ecole_spécialisée",0,"Shimaoré",0,0
+13,"Collège de Ouangani","Quatrième","Commune de Ouangani",120,420,300,10,0,0,1,0,"ecole_spécialisée",0,"Shimaoré",0,1
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",5,25,60,5,1,0,0,0,"université",0,"malgache francais mahoraise",1,1
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",10,40,50,4,1,0,0,0,"ecole_spécialisée",0,"Shimaoré",0,0
+14,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,60,60,1,1,0,1,1,"ecole_spécialisée",0,"malgache et shimaore",1,1
+13,"Collège de Ouangani","Quatrième","Commune de Ouangani",120,60,240,5,1,0,1,0,"université",1,"Shimaoré",1,1
+15,"Collège de Ouangani","Quatrième","Commune de Ouangani",0,60,120,4,0,0,1,1,"ecole_spécialisée",1,"Shimaoré",0,0
+17,"Lycée de Dembéni","Première","Commune de Mamoudzou",120,120,120,7,0,0,0,1,"université",1,"Shimaoré",1,0
+17,"Lycée Younoussa Bamana","P18STI2D","Commune de Mamoudzou",300,300,180,6,0,0,1,1,"université",0,"Shimaoré",1,1
+17,"Lycée des Lumières","Terminale STMG","Commune de Mamoudzou",0,120,240,8,0,0,0,1,"bts",0,"Français",1,1
+13,"Collège de Ouangani","Quatrième","Commune de Ouangani",60,60,60,10,1,1,0,1,"réflexion",0,"Shimaoré",1,1
